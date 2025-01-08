@@ -1,9 +1,484 @@
-[
-  {
-    "target": "dt_component",
-    "datapoints": [
-      [10, 1704113400000],
-      [12, 1704199800000]
+{
+    "rules": [
+        {
+            "created_at": "2025-01-04T18:50:00Z",
+            "rule_name": "dt_component",
+            "run_time": "81538",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-04T14:03:00Z",
+            "rule_name": "dt_component",
+            "run_time": "59792",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-03T02:02:00Z",
+            "rule_name": "dt_component",
+            "run_time": "50093",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-04T17:47:00Z",
+            "rule_name": "dt_component",
+            "run_time": "79856",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-01T23:51:00Z",
+            "rule_name": "dt_component",
+            "run_time": "54720",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-03T03:17:00Z",
+            "rule_name": "dt_component",
+            "run_time": "15881",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-02T19:03:00Z",
+            "rule_name": "dt_component",
+            "run_time": "4474",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-04T05:39:00Z",
+            "rule_name": "dt_component",
+            "run_time": "63120",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-01T21:59:00Z",
+            "rule_name": "dt_component",
+            "run_time": "44264",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-02T13:11:00Z",
+            "rule_name": "dt_component",
+            "run_time": "79532",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-03T13:08:00Z",
+            "rule_name": "dt_component",
+            "run_time": "80153",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-02T00:09:00Z",
+            "rule_name": "dt_component",
+            "run_time": "69105",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-03T20:18:00Z",
+            "rule_name": "dt_component",
+            "run_time": "928",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-01T14:15:00Z",
+            "rule_name": "dt_component",
+            "run_time": "85268",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-02T19:37:00Z",
+            "rule_name": "dt_component",
+            "run_time": "76142",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-04T06:11:00Z",
+            "rule_name": "dt_component",
+            "run_time": "76856",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-03T12:14:00Z",
+            "rule_name": "dt_component",
+            "run_time": "47344",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-04T06:40:00Z",
+            "rule_name": "dt_component",
+            "run_time": "58083",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-04T10:38:00Z",
+            "rule_name": "dt_component",
+            "run_time": "75771",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-02T10:54:00Z",
+            "rule_name": "dt_component",
+            "run_time": "22011",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-03T04:28:00Z",
+            "rule_name": "dt_component",
+            "run_time": "53914",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-03T10:31:00Z",
+            "rule_name": "dt_component",
+            "run_time": "93989",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-03T12:12:00Z",
+            "rule_name": "dt_component",
+            "run_time": "610",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-03T13:11:00Z",
+            "rule_name": "dt_component",
+            "run_time": "92817",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-02T00:53:00Z",
+            "rule_name": "dt_component",
+            "run_time": "23022",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-04T01:01:00Z",
+            "rule_name": "dt_component",
+            "run_time": "96686",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-03T16:19:00Z",
+            "rule_name": "dt_component",
+            "run_time": "90423",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-02T10:52:00Z",
+            "rule_name": "dt_component",
+            "run_time": "39642",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-04T12:36:00Z",
+            "rule_name": "dt_component",
+            "run_time": "36143",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-03T01:07:00Z",
+            "rule_name": "dt_component",
+            "run_time": "54266",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-03T04:22:00Z",
+            "rule_name": "dt_component",
+            "run_time": "2817",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T13:38:00Z",
+            "rule_name": "dt_component",
+            "run_time": "6780",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-02T17:35:00Z",
+            "rule_name": "dt_component",
+            "run_time": "36362",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T10:55:00Z",
+            "rule_name": "dt_component",
+            "run_time": "66309",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T01:43:00Z",
+            "rule_name": "dt_component",
+            "run_time": "73549",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T02:36:00Z",
+            "rule_name": "dt_component",
+            "run_time": "40083",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-02T18:17:00Z",
+            "rule_name": "dt_component",
+            "run_time": "93810",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T13:02:00Z",
+            "rule_name": "dt_component",
+            "run_time": "21948",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T19:28:00Z",
+            "rule_name": "dt_component",
+            "run_time": "55349",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-02T14:36:00Z",
+            "rule_name": "dt_component",
+            "run_time": "59913",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-02T00:13:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "60091",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-04T09:37:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "82849",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-03T06:09:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "66075",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-03T21:08:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "91639",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-02T21:17:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "346",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-04T13:39:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "4137",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-03T15:25:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "53056",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-01T20:39:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "12004",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-03T05:03:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "47039",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-04T02:09:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "16287",
+            "version": "7.8.0.0"
+        },
+        {
+            "created_at": "2025-01-03T07:03:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "1905",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-02T11:50:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "46997",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-04T00:44:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "20531",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-03T03:22:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "32413",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-01T23:18:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "10067",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-03T04:46:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "93605",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-02T18:53:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "73868",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-04T21:44:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "18462",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-03T03:07:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "78522",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-03T09:54:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "71247",
+            "version": "7.8.1.0"
+        },
+        {
+            "created_at": "2025-01-04T21:38:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "80325",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-01T15:19:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "39493",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-03T21:47:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "16176",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-01T20:08:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "72802",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-04T02:47:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "47217",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-02T01:34:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "93221",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-02T01:17:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "47927",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-02T04:05:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "7455",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-04T05:10:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "70360",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-02T11:07:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "7699",
+            "version": "7.9.0.0"
+        },
+        {
+            "created_at": "2025-01-02T06:33:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "37430",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-02T11:38:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "142",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-04T11:13:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "77635",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-01T14:31:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "84434",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T04:37:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "84116",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-04T14:21:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "98089",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T03:08:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "59880",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-02T12:44:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "15651",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-03T23:31:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "13144",
+            "version": "8.0.0.0"
+        },
+        {
+            "created_at": "2025-01-04T22:14:00Z",
+            "rule_name": "rule_alpha",
+            "run_time": "2234",
+            "version": "8.0.0.0"
+        }
     ]
-  }
-]
+}
