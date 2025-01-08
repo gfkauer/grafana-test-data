@@ -1,484 +1,4504 @@
 {
-    "rules": [
-        {
-            "created_at": "2025-01-04T18:50:00Z",
-            "rule_name": "dt_component",
-            "run_time": "81538",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-04T14:03:00Z",
-            "rule_name": "dt_component",
-            "run_time": "59792",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-03T02:02:00Z",
-            "rule_name": "dt_component",
-            "run_time": "50093",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-04T17:47:00Z",
-            "rule_name": "dt_component",
-            "run_time": "79856",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-01T23:51:00Z",
-            "rule_name": "dt_component",
-            "run_time": "54720",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-03T03:17:00Z",
-            "rule_name": "dt_component",
-            "run_time": "15881",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-02T19:03:00Z",
-            "rule_name": "dt_component",
-            "run_time": "4474",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-04T05:39:00Z",
-            "rule_name": "dt_component",
-            "run_time": "63120",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-01T21:59:00Z",
-            "rule_name": "dt_component",
-            "run_time": "44264",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-02T13:11:00Z",
-            "rule_name": "dt_component",
-            "run_time": "79532",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-03T13:08:00Z",
-            "rule_name": "dt_component",
-            "run_time": "80153",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-02T00:09:00Z",
-            "rule_name": "dt_component",
-            "run_time": "69105",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-03T20:18:00Z",
-            "rule_name": "dt_component",
-            "run_time": "928",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-01T14:15:00Z",
-            "rule_name": "dt_component",
-            "run_time": "85268",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-02T19:37:00Z",
-            "rule_name": "dt_component",
-            "run_time": "76142",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-04T06:11:00Z",
-            "rule_name": "dt_component",
-            "run_time": "76856",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-03T12:14:00Z",
-            "rule_name": "dt_component",
-            "run_time": "47344",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-04T06:40:00Z",
-            "rule_name": "dt_component",
-            "run_time": "58083",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-04T10:38:00Z",
-            "rule_name": "dt_component",
-            "run_time": "75771",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-02T10:54:00Z",
-            "rule_name": "dt_component",
-            "run_time": "22011",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-03T04:28:00Z",
-            "rule_name": "dt_component",
-            "run_time": "53914",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-03T10:31:00Z",
-            "rule_name": "dt_component",
-            "run_time": "93989",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-03T12:12:00Z",
-            "rule_name": "dt_component",
-            "run_time": "610",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-03T13:11:00Z",
-            "rule_name": "dt_component",
-            "run_time": "92817",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-02T00:53:00Z",
-            "rule_name": "dt_component",
-            "run_time": "23022",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-04T01:01:00Z",
-            "rule_name": "dt_component",
-            "run_time": "96686",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-03T16:19:00Z",
-            "rule_name": "dt_component",
-            "run_time": "90423",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-02T10:52:00Z",
-            "rule_name": "dt_component",
-            "run_time": "39642",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-04T12:36:00Z",
-            "rule_name": "dt_component",
-            "run_time": "36143",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-03T01:07:00Z",
-            "rule_name": "dt_component",
-            "run_time": "54266",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-03T04:22:00Z",
-            "rule_name": "dt_component",
-            "run_time": "2817",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T13:38:00Z",
-            "rule_name": "dt_component",
-            "run_time": "6780",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-02T17:35:00Z",
-            "rule_name": "dt_component",
-            "run_time": "36362",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T10:55:00Z",
-            "rule_name": "dt_component",
-            "run_time": "66309",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T01:43:00Z",
-            "rule_name": "dt_component",
-            "run_time": "73549",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T02:36:00Z",
-            "rule_name": "dt_component",
-            "run_time": "40083",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-02T18:17:00Z",
-            "rule_name": "dt_component",
-            "run_time": "93810",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T13:02:00Z",
-            "rule_name": "dt_component",
-            "run_time": "21948",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T19:28:00Z",
-            "rule_name": "dt_component",
-            "run_time": "55349",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-02T14:36:00Z",
-            "rule_name": "dt_component",
-            "run_time": "59913",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-02T00:13:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "60091",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-04T09:37:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "82849",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-03T06:09:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "66075",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-03T21:08:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "91639",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-02T21:17:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "346",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-04T13:39:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "4137",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-03T15:25:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "53056",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-01T20:39:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "12004",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-03T05:03:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "47039",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-04T02:09:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "16287",
-            "version": "7.8.0.0"
-        },
-        {
-            "created_at": "2025-01-03T07:03:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "1905",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-02T11:50:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "46997",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-04T00:44:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "20531",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-03T03:22:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "32413",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-01T23:18:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "10067",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-03T04:46:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "93605",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-02T18:53:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "73868",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-04T21:44:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "18462",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-03T03:07:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "78522",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-03T09:54:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "71247",
-            "version": "7.8.1.0"
-        },
-        {
-            "created_at": "2025-01-04T21:38:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "80325",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-01T15:19:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "39493",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-03T21:47:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "16176",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-01T20:08:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "72802",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-04T02:47:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "47217",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-02T01:34:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "93221",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-02T01:17:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "47927",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-02T04:05:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "7455",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-04T05:10:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "70360",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-02T11:07:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "7699",
-            "version": "7.9.0.0"
-        },
-        {
-            "created_at": "2025-01-02T06:33:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "37430",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-02T11:38:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "142",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-04T11:13:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "77635",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-01T14:31:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "84434",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T04:37:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "84116",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-04T14:21:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "98089",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T03:08:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "59880",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-02T12:44:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "15651",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-03T23:31:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "13144",
-            "version": "8.0.0.0"
-        },
-        {
-            "created_at": "2025-01-04T22:14:00Z",
-            "rule_name": "rule_alpha",
-            "run_time": "2234",
-            "version": "8.0.0.0"
+    "feeds": [
+        {
+            "created_at": "2025-01-08T00:43:37Z",
+            "version": "8.0.0",
+            "Rule 1": 256,
+            "Rule 2": 432,
+            "Rule 3": 118,
+            "Rule 4": 51,
+            "Rule 5": 468
+        },
+        {
+            "created_at": "2025-01-08T16:23:25Z",
+            "version": "8.0.0",
+            "Rule 1": 75,
+            "Rule 2": 54,
+            "Rule 3": 967,
+            "Rule 4": 853,
+            "Rule 5": 741
+        },
+        {
+            "created_at": "2025-01-08T14:14:36Z",
+            "version": "8.0.0",
+            "Rule 1": 92,
+            "Rule 2": 420,
+            "Rule 3": 177,
+            "Rule 4": 554,
+            "Rule 5": 522
+        },
+        {
+            "created_at": "2025-01-08T12:49:04Z",
+            "version": "8.0.0",
+            "Rule 1": 241,
+            "Rule 2": 357,
+            "Rule 3": 162,
+            "Rule 4": 723,
+            "Rule 5": 449
+        },
+        {
+            "created_at": "2025-01-08T20:20:44Z",
+            "version": "8.0.0",
+            "Rule 1": 37,
+            "Rule 2": 82,
+            "Rule 3": 520,
+            "Rule 4": 110,
+            "Rule 5": 688
+        },
+        {
+            "created_at": "2025-01-08T11:38:30Z",
+            "version": "8.0.0",
+            "Rule 1": 914,
+            "Rule 2": 908,
+            "Rule 3": 698,
+            "Rule 4": 555,
+            "Rule 5": 93
+        },
+        {
+            "created_at": "2025-01-08T02:58:53Z",
+            "version": "8.0.0",
+            "Rule 1": 725,
+            "Rule 2": 895,
+            "Rule 3": 805,
+            "Rule 4": 602,
+            "Rule 5": 295
+        },
+        {
+            "created_at": "2025-01-08T19:22:32Z",
+            "version": "8.0.0",
+            "Rule 1": 801,
+            "Rule 2": 403,
+            "Rule 3": 155,
+            "Rule 4": 898,
+            "Rule 5": 145
+        },
+        {
+            "created_at": "2025-01-08T13:32:11Z",
+            "version": "8.0.0",
+            "Rule 1": 310,
+            "Rule 2": 161,
+            "Rule 3": 312,
+            "Rule 4": 361,
+            "Rule 5": 173
+        },
+        {
+            "created_at": "2025-01-08T09:28:55Z",
+            "version": "8.0.0",
+            "Rule 1": 104,
+            "Rule 2": 203,
+            "Rule 3": 920,
+            "Rule 4": 505,
+            "Rule 5": 628
+        },
+        {
+            "created_at": "2025-01-08T13:49:51Z",
+            "version": "8.0.0",
+            "Rule 1": 342,
+            "Rule 2": 520,
+            "Rule 3": 479,
+            "Rule 4": 584,
+            "Rule 5": 72
+        },
+        {
+            "created_at": "2025-01-08T05:56:39Z",
+            "version": "8.0.0",
+            "Rule 1": 584,
+            "Rule 2": 12,
+            "Rule 3": 671,
+            "Rule 4": 148,
+            "Rule 5": 429
+        },
+        {
+            "created_at": "2025-01-08T20:26:03Z",
+            "version": "8.0.0",
+            "Rule 1": 636,
+            "Rule 2": 960,
+            "Rule 3": 218,
+            "Rule 4": 1,
+            "Rule 5": 445
+        },
+        {
+            "created_at": "2025-01-08T06:40:23Z",
+            "version": "8.0.0",
+            "Rule 1": 647,
+            "Rule 2": 951,
+            "Rule 3": 422,
+            "Rule 4": 961,
+            "Rule 5": 279
+        },
+        {
+            "created_at": "2025-01-08T14:57:11Z",
+            "version": "8.0.0",
+            "Rule 1": 990,
+            "Rule 2": 350,
+            "Rule 3": 467,
+            "Rule 4": 593,
+            "Rule 5": 799
+        },
+        {
+            "created_at": "2025-01-08T13:48:57Z",
+            "version": "8.0.0",
+            "Rule 1": 755,
+            "Rule 2": 917,
+            "Rule 3": 654,
+            "Rule 4": 915,
+            "Rule 5": 333
+        },
+        {
+            "created_at": "2025-01-08T18:21:15Z",
+            "version": "8.0.0",
+            "Rule 1": 32,
+            "Rule 2": 450,
+            "Rule 3": 617,
+            "Rule 4": 762,
+            "Rule 5": 104
+        },
+        {
+            "created_at": "2025-01-08T23:13:13Z",
+            "version": "8.0.0",
+            "Rule 1": 150,
+            "Rule 2": 763,
+            "Rule 3": 955,
+            "Rule 4": 151,
+            "Rule 5": 299
+        },
+        {
+            "created_at": "2025-01-08T11:16:49Z",
+            "version": "8.0.0",
+            "Rule 1": 518,
+            "Rule 2": 750,
+            "Rule 3": 346,
+            "Rule 4": 639,
+            "Rule 5": 709
+        },
+        {
+            "created_at": "2025-01-08T17:15:27Z",
+            "version": "8.0.0",
+            "Rule 1": 615,
+            "Rule 2": 754,
+            "Rule 3": 862,
+            "Rule 4": 161,
+            "Rule 5": 29
+        },
+        {
+            "created_at": "2025-01-08T09:31:58Z",
+            "version": "8.0.0",
+            "Rule 1": 560,
+            "Rule 2": 793,
+            "Rule 3": 98,
+            "Rule 4": 963,
+            "Rule 5": 151
+        },
+        {
+            "created_at": "2025-01-08T20:39:36Z",
+            "version": "8.0.0",
+            "Rule 1": 40,
+            "Rule 2": 725,
+            "Rule 3": 734,
+            "Rule 4": 999,
+            "Rule 5": 832
+        },
+        {
+            "created_at": "2025-01-08T09:59:29Z",
+            "version": "8.0.0",
+            "Rule 1": 518,
+            "Rule 2": 97,
+            "Rule 3": 759,
+            "Rule 4": 465,
+            "Rule 5": 79
+        },
+        {
+            "created_at": "2025-01-08T15:37:37Z",
+            "version": "8.0.0",
+            "Rule 1": 919,
+            "Rule 2": 76,
+            "Rule 3": 624,
+            "Rule 4": 375,
+            "Rule 5": 49
+        },
+        {
+            "created_at": "2025-01-08T01:30:13Z",
+            "version": "8.0.0",
+            "Rule 1": 445,
+            "Rule 2": 327,
+            "Rule 3": 167,
+            "Rule 4": 204,
+            "Rule 5": 1000
+        },
+        {
+            "created_at": "2025-01-08T21:50:18Z",
+            "version": "8.0.0",
+            "Rule 1": 559,
+            "Rule 2": 306,
+            "Rule 3": 901,
+            "Rule 4": 326,
+            "Rule 5": 116
+        },
+        {
+            "created_at": "2025-01-08T22:27:50Z",
+            "version": "8.0.0",
+            "Rule 1": 405,
+            "Rule 2": 364,
+            "Rule 3": 117,
+            "Rule 4": 166,
+            "Rule 5": 171
+        },
+        {
+            "created_at": "2025-01-08T21:27:28Z",
+            "version": "8.0.0",
+            "Rule 1": 512,
+            "Rule 2": 221,
+            "Rule 3": 844,
+            "Rule 4": 36,
+            "Rule 5": 41
+        },
+        {
+            "created_at": "2025-01-08T06:27:10Z",
+            "version": "8.0.0",
+            "Rule 1": 840,
+            "Rule 2": 913,
+            "Rule 3": 625,
+            "Rule 4": 390,
+            "Rule 5": 501
+        },
+        {
+            "created_at": "2025-01-08T19:36:38Z",
+            "version": "8.0.0",
+            "Rule 1": 680,
+            "Rule 2": 646,
+            "Rule 3": 908,
+            "Rule 4": 2,
+            "Rule 5": 769
+        },
+        {
+            "created_at": "2025-01-08T07:01:49Z",
+            "version": "8.0.0",
+            "Rule 1": 185,
+            "Rule 2": 671,
+            "Rule 3": 370,
+            "Rule 4": 126,
+            "Rule 5": 300
+        },
+        {
+            "created_at": "2025-01-08T16:50:53Z",
+            "version": "8.0.0",
+            "Rule 1": 3,
+            "Rule 2": 140,
+            "Rule 3": 218,
+            "Rule 4": 853,
+            "Rule 5": 320
+        },
+        {
+            "created_at": "2025-01-08T18:35:18Z",
+            "version": "8.0.0",
+            "Rule 1": 46,
+            "Rule 2": 169,
+            "Rule 3": 342,
+            "Rule 4": 669,
+            "Rule 5": 785
+        },
+        {
+            "created_at": "2025-01-08T17:51:45Z",
+            "version": "8.0.0",
+            "Rule 1": 558,
+            "Rule 2": 376,
+            "Rule 3": 298,
+            "Rule 4": 446,
+            "Rule 5": 305
+        },
+        {
+            "created_at": "2025-01-08T14:17:04Z",
+            "version": "8.0.0",
+            "Rule 1": 25,
+            "Rule 2": 19,
+            "Rule 3": 715,
+            "Rule 4": 726,
+            "Rule 5": 331
+        },
+        {
+            "created_at": "2025-01-08T15:48:36Z",
+            "version": "8.0.0",
+            "Rule 1": 198,
+            "Rule 2": 764,
+            "Rule 3": 771,
+            "Rule 4": 819,
+            "Rule 5": 308
+        },
+        {
+            "created_at": "2025-01-08T19:24:29Z",
+            "version": "8.0.0",
+            "Rule 1": 335,
+            "Rule 2": 75,
+            "Rule 3": 955,
+            "Rule 4": 184,
+            "Rule 5": 71
+        },
+        {
+            "created_at": "2025-01-08T14:36:28Z",
+            "version": "8.0.0",
+            "Rule 1": 311,
+            "Rule 2": 962,
+            "Rule 3": 921,
+            "Rule 4": 963,
+            "Rule 5": 501
+        },
+        {
+            "created_at": "2025-01-08T17:39:19Z",
+            "version": "8.0.0",
+            "Rule 1": 263,
+            "Rule 2": 48,
+            "Rule 3": 277,
+            "Rule 4": 179,
+            "Rule 5": 731
+        },
+        {
+            "created_at": "2025-01-08T17:46:35Z",
+            "version": "8.0.0",
+            "Rule 1": 787,
+            "Rule 2": 270,
+            "Rule 3": 716,
+            "Rule 4": 638,
+            "Rule 5": 395
+        },
+        {
+            "created_at": "2025-01-08T00:14:54Z",
+            "version": "8.0.0",
+            "Rule 1": 940,
+            "Rule 2": 129,
+            "Rule 3": 242,
+            "Rule 4": 338,
+            "Rule 5": 799
+        },
+        {
+            "created_at": "2025-01-08T01:59:31Z",
+            "version": "8.0.0",
+            "Rule 1": 747,
+            "Rule 2": 258,
+            "Rule 3": 19,
+            "Rule 4": 360,
+            "Rule 5": 261
+        },
+        {
+            "created_at": "2025-01-08T08:34:44Z",
+            "version": "8.0.0",
+            "Rule 1": 307,
+            "Rule 2": 757,
+            "Rule 3": 327,
+            "Rule 4": 35,
+            "Rule 5": 155
+        },
+        {
+            "created_at": "2025-01-08T15:15:18Z",
+            "version": "8.0.0",
+            "Rule 1": 819,
+            "Rule 2": 731,
+            "Rule 3": 635,
+            "Rule 4": 950,
+            "Rule 5": 169
+        },
+        {
+            "created_at": "2025-01-08T18:49:24Z",
+            "version": "8.0.0",
+            "Rule 1": 558,
+            "Rule 2": 243,
+            "Rule 3": 320,
+            "Rule 4": 908,
+            "Rule 5": 882
+        },
+        {
+            "created_at": "2025-01-08T05:04:37Z",
+            "version": "8.0.0",
+            "Rule 1": 300,
+            "Rule 2": 767,
+            "Rule 3": 486,
+            "Rule 4": 560,
+            "Rule 5": 881
+        },
+        {
+            "created_at": "2025-01-08T19:46:00Z",
+            "version": "8.0.0",
+            "Rule 1": 796,
+            "Rule 2": 732,
+            "Rule 3": 772,
+            "Rule 4": 125,
+            "Rule 5": 207
+        },
+        {
+            "created_at": "2025-01-08T22:48:05Z",
+            "version": "8.0.0",
+            "Rule 1": 170,
+            "Rule 2": 960,
+            "Rule 3": 767,
+            "Rule 4": 410,
+            "Rule 5": 844
+        },
+        {
+            "created_at": "2025-01-08T02:11:17Z",
+            "version": "8.0.0",
+            "Rule 1": 777,
+            "Rule 2": 265,
+            "Rule 3": 504,
+            "Rule 4": 298,
+            "Rule 5": 941
+        },
+        {
+            "created_at": "2025-01-08T23:49:33Z",
+            "version": "8.0.0",
+            "Rule 1": 225,
+            "Rule 2": 202,
+            "Rule 3": 496,
+            "Rule 4": 332,
+            "Rule 5": 770
+        },
+        {
+            "created_at": "2025-01-08T03:58:17Z",
+            "version": "8.0.0",
+            "Rule 1": 315,
+            "Rule 2": 643,
+            "Rule 3": 268,
+            "Rule 4": 368,
+            "Rule 5": 298
+        },
+        {
+            "created_at": "2025-01-08T18:36:39Z",
+            "version": "8.0.0",
+            "Rule 1": 177,
+            "Rule 2": 27,
+            "Rule 3": 157,
+            "Rule 4": 203,
+            "Rule 5": 462
+        },
+        {
+            "created_at": "2025-01-08T04:16:46Z",
+            "version": "8.0.0",
+            "Rule 1": 931,
+            "Rule 2": 163,
+            "Rule 3": 297,
+            "Rule 4": 26,
+            "Rule 5": 380
+        },
+        {
+            "created_at": "2025-01-08T16:46:47Z",
+            "version": "8.0.0",
+            "Rule 1": 111,
+            "Rule 2": 541,
+            "Rule 3": 35,
+            "Rule 4": 133,
+            "Rule 5": 154
+        },
+        {
+            "created_at": "2025-01-08T23:03:46Z",
+            "version": "8.0.0",
+            "Rule 1": 642,
+            "Rule 2": 817,
+            "Rule 3": 556,
+            "Rule 4": 719,
+            "Rule 5": 523
+        },
+        {
+            "created_at": "2025-01-08T00:36:22Z",
+            "version": "8.0.0",
+            "Rule 1": 529,
+            "Rule 2": 585,
+            "Rule 3": 275,
+            "Rule 4": 599,
+            "Rule 5": 994
+        },
+        {
+            "created_at": "2025-01-08T20:51:12Z",
+            "version": "8.0.0",
+            "Rule 1": 200,
+            "Rule 2": 782,
+            "Rule 3": 762,
+            "Rule 4": 735,
+            "Rule 5": 15
+        },
+        {
+            "created_at": "2025-01-08T13:13:45Z",
+            "version": "8.0.0",
+            "Rule 1": 74,
+            "Rule 2": 137,
+            "Rule 3": 301,
+            "Rule 4": 534,
+            "Rule 5": 785
+        },
+        {
+            "created_at": "2025-01-08T18:18:36Z",
+            "version": "8.0.0",
+            "Rule 1": 247,
+            "Rule 2": 225,
+            "Rule 3": 323,
+            "Rule 4": 520,
+            "Rule 5": 729
+        },
+        {
+            "created_at": "2025-01-08T04:01:52Z",
+            "version": "8.0.0",
+            "Rule 1": 173,
+            "Rule 2": 352,
+            "Rule 3": 879,
+            "Rule 4": 644,
+            "Rule 5": 779
+        },
+        {
+            "created_at": "2025-01-08T22:04:31Z",
+            "version": "8.0.0",
+            "Rule 1": 921,
+            "Rule 2": 147,
+            "Rule 3": 283,
+            "Rule 4": 524,
+            "Rule 5": 99
+        },
+        {
+            "created_at": "2025-01-08T20:42:49Z",
+            "version": "8.0.0",
+            "Rule 1": 494,
+            "Rule 2": 634,
+            "Rule 3": 415,
+            "Rule 4": 182,
+            "Rule 5": 504
+        },
+        {
+            "created_at": "2025-01-08T12:30:33Z",
+            "version": "8.0.0",
+            "Rule 1": 398,
+            "Rule 2": 275,
+            "Rule 3": 351,
+            "Rule 4": 564,
+            "Rule 5": 221
+        },
+        {
+            "created_at": "2025-01-08T22:51:57Z",
+            "version": "8.0.0",
+            "Rule 1": 456,
+            "Rule 2": 206,
+            "Rule 3": 795,
+            "Rule 4": 562,
+            "Rule 5": 368
+        },
+        {
+            "created_at": "2025-01-08T11:59:09Z",
+            "version": "8.0.0",
+            "Rule 1": 388,
+            "Rule 2": 437,
+            "Rule 3": 365,
+            "Rule 4": 490,
+            "Rule 5": 550
+        },
+        {
+            "created_at": "2025-01-08T23:24:11Z",
+            "version": "8.0.0",
+            "Rule 1": 360,
+            "Rule 2": 106,
+            "Rule 3": 177,
+            "Rule 4": 351,
+            "Rule 5": 152
+        },
+        {
+            "created_at": "2025-01-08T13:43:01Z",
+            "version": "8.0.0",
+            "Rule 1": 733,
+            "Rule 2": 137,
+            "Rule 3": 125,
+            "Rule 4": 911,
+            "Rule 5": 107
+        },
+        {
+            "created_at": "2025-01-08T16:43:21Z",
+            "version": "8.0.0",
+            "Rule 1": 386,
+            "Rule 2": 783,
+            "Rule 3": 46,
+            "Rule 4": 328,
+            "Rule 5": 134
+        },
+        {
+            "created_at": "2025-01-08T21:50:41Z",
+            "version": "8.0.0",
+            "Rule 1": 810,
+            "Rule 2": 646,
+            "Rule 3": 105,
+            "Rule 4": 242,
+            "Rule 5": 913
+        },
+        {
+            "created_at": "2025-01-08T01:05:32Z",
+            "version": "8.0.0",
+            "Rule 1": 216,
+            "Rule 2": 14,
+            "Rule 3": 244,
+            "Rule 4": 829,
+            "Rule 5": 381
+        },
+        {
+            "created_at": "2025-01-08T03:41:56Z",
+            "version": "8.0.0",
+            "Rule 1": 567,
+            "Rule 2": 210,
+            "Rule 3": 857,
+            "Rule 4": 193,
+            "Rule 5": 417
+        },
+        {
+            "created_at": "2025-01-08T18:43:37Z",
+            "version": "8.0.0",
+            "Rule 1": 839,
+            "Rule 2": 292,
+            "Rule 3": 668,
+            "Rule 4": 261,
+            "Rule 5": 969
+        },
+        {
+            "created_at": "2025-01-08T17:24:13Z",
+            "version": "8.0.0",
+            "Rule 1": 175,
+            "Rule 2": 957,
+            "Rule 3": 447,
+            "Rule 4": 508,
+            "Rule 5": 757
+        },
+        {
+            "created_at": "2025-01-08T02:58:32Z",
+            "version": "8.0.0",
+            "Rule 1": 978,
+            "Rule 2": 69,
+            "Rule 3": 801,
+            "Rule 4": 687,
+            "Rule 5": 64
+        },
+        {
+            "created_at": "2025-01-08T06:59:50Z",
+            "version": "8.0.0",
+            "Rule 1": 306,
+            "Rule 2": 536,
+            "Rule 3": 478,
+            "Rule 4": 450,
+            "Rule 5": 65
+        },
+        {
+            "created_at": "2025-01-08T02:22:22Z",
+            "version": "8.0.0",
+            "Rule 1": 182,
+            "Rule 2": 111,
+            "Rule 3": 637,
+            "Rule 4": 180,
+            "Rule 5": 535
+        },
+        {
+            "created_at": "2025-01-08T03:38:20Z",
+            "version": "8.0.0",
+            "Rule 1": 141,
+            "Rule 2": 789,
+            "Rule 3": 14,
+            "Rule 4": 235,
+            "Rule 5": 329
+        },
+        {
+            "created_at": "2025-01-08T12:12:30Z",
+            "version": "8.0.0",
+            "Rule 1": 11,
+            "Rule 2": 561,
+            "Rule 3": 871,
+            "Rule 4": 19,
+            "Rule 5": 598
+        },
+        {
+            "created_at": "2025-01-08T08:32:16Z",
+            "version": "8.0.0",
+            "Rule 1": 590,
+            "Rule 2": 833,
+            "Rule 3": 629,
+            "Rule 4": 676,
+            "Rule 5": 407
+        },
+        {
+            "created_at": "2025-01-08T04:33:07Z",
+            "version": "8.0.0",
+            "Rule 1": 485,
+            "Rule 2": 53,
+            "Rule 3": 967,
+            "Rule 4": 315,
+            "Rule 5": 943
+        },
+        {
+            "created_at": "2025-01-08T08:58:11Z",
+            "version": "8.0.0",
+            "Rule 1": 961,
+            "Rule 2": 380,
+            "Rule 3": 351,
+            "Rule 4": 152,
+            "Rule 5": 507
+        },
+        {
+            "created_at": "2025-01-08T13:48:20Z",
+            "version": "8.0.0",
+            "Rule 1": 180,
+            "Rule 2": 631,
+            "Rule 3": 179,
+            "Rule 4": 50,
+            "Rule 5": 231
+        },
+        {
+            "created_at": "2025-01-08T11:13:20Z",
+            "version": "8.0.0",
+            "Rule 1": 808,
+            "Rule 2": 278,
+            "Rule 3": 183,
+            "Rule 4": 223,
+            "Rule 5": 344
+        },
+        {
+            "created_at": "2025-01-08T20:43:07Z",
+            "version": "8.0.0",
+            "Rule 1": 815,
+            "Rule 2": 142,
+            "Rule 3": 921,
+            "Rule 4": 398,
+            "Rule 5": 604
+        },
+        {
+            "created_at": "2025-01-08T10:51:17Z",
+            "version": "8.0.0",
+            "Rule 1": 273,
+            "Rule 2": 270,
+            "Rule 3": 941,
+            "Rule 4": 915,
+            "Rule 5": 744
+        },
+        {
+            "created_at": "2025-01-08T09:58:02Z",
+            "version": "8.0.0",
+            "Rule 1": 711,
+            "Rule 2": 441,
+            "Rule 3": 663,
+            "Rule 4": 859,
+            "Rule 5": 626
+        },
+        {
+            "created_at": "2025-01-08T22:09:55Z",
+            "version": "8.0.0",
+            "Rule 1": 352,
+            "Rule 2": 540,
+            "Rule 3": 99,
+            "Rule 4": 314,
+            "Rule 5": 682
+        },
+        {
+            "created_at": "2025-01-08T08:49:38Z",
+            "version": "8.0.0",
+            "Rule 1": 356,
+            "Rule 2": 267,
+            "Rule 3": 909,
+            "Rule 4": 876,
+            "Rule 5": 146
+        },
+        {
+            "created_at": "2025-01-08T11:01:58Z",
+            "version": "8.0.0",
+            "Rule 1": 907,
+            "Rule 2": 134,
+            "Rule 3": 644,
+            "Rule 4": 603,
+            "Rule 5": 496
+        },
+        {
+            "created_at": "2025-01-08T20:43:15Z",
+            "version": "8.0.0",
+            "Rule 1": 810,
+            "Rule 2": 667,
+            "Rule 3": 917,
+            "Rule 4": 373,
+            "Rule 5": 550
+        },
+        {
+            "created_at": "2025-01-08T13:58:39Z",
+            "version": "8.0.0",
+            "Rule 1": 392,
+            "Rule 2": 842,
+            "Rule 3": 195,
+            "Rule 4": 742,
+            "Rule 5": 492
+        },
+        {
+            "created_at": "2025-01-08T07:27:25Z",
+            "version": "8.0.0",
+            "Rule 1": 137,
+            "Rule 2": 977,
+            "Rule 3": 490,
+            "Rule 4": 796,
+            "Rule 5": 356
+        },
+        {
+            "created_at": "2025-01-08T05:21:49Z",
+            "version": "8.0.0",
+            "Rule 1": 666,
+            "Rule 2": 558,
+            "Rule 3": 472,
+            "Rule 4": 529,
+            "Rule 5": 262
+        },
+        {
+            "created_at": "2025-01-08T11:34:40Z",
+            "version": "8.0.0",
+            "Rule 1": 426,
+            "Rule 2": 995,
+            "Rule 3": 864,
+            "Rule 4": 845,
+            "Rule 5": 113
+        },
+        {
+            "created_at": "2025-01-08T01:12:38Z",
+            "version": "8.0.0",
+            "Rule 1": 290,
+            "Rule 2": 695,
+            "Rule 3": 790,
+            "Rule 4": 417,
+            "Rule 5": 114
+        },
+        {
+            "created_at": "2025-01-08T06:41:04Z",
+            "version": "8.0.0",
+            "Rule 1": 152,
+            "Rule 2": 955,
+            "Rule 3": 629,
+            "Rule 4": 668,
+            "Rule 5": 799
+        },
+        {
+            "created_at": "2025-01-08T20:24:55Z",
+            "version": "8.0.0",
+            "Rule 1": 619,
+            "Rule 2": 929,
+            "Rule 3": 574,
+            "Rule 4": 970,
+            "Rule 5": 708
+        },
+        {
+            "created_at": "2025-01-08T11:13:18Z",
+            "version": "8.0.0",
+            "Rule 1": 860,
+            "Rule 2": 430,
+            "Rule 3": 426,
+            "Rule 4": 14,
+            "Rule 5": 39
+        },
+        {
+            "created_at": "2025-01-08T17:37:47Z",
+            "version": "8.0.0",
+            "Rule 1": 76,
+            "Rule 2": 495,
+            "Rule 3": 351,
+            "Rule 4": 854,
+            "Rule 5": 857
+        },
+        {
+            "created_at": "2025-01-08T04:58:58Z",
+            "version": "8.0.0",
+            "Rule 1": 499,
+            "Rule 2": 888,
+            "Rule 3": 130,
+            "Rule 4": 912,
+            "Rule 5": 334
+        },
+        {
+            "created_at": "2025-01-08T07:00:14Z",
+            "version": "8.1.0",
+            "Rule 1": 418,
+            "Rule 2": 931,
+            "Rule 3": 31,
+            "Rule 4": 152,
+            "Rule 5": 63
+        },
+        {
+            "created_at": "2025-01-08T02:43:54Z",
+            "version": "8.1.0",
+            "Rule 1": 732,
+            "Rule 2": 421,
+            "Rule 3": 776,
+            "Rule 4": 103,
+            "Rule 5": 737
+        },
+        {
+            "created_at": "2025-01-08T21:26:00Z",
+            "version": "8.1.0",
+            "Rule 1": 257,
+            "Rule 2": 901,
+            "Rule 3": 740,
+            "Rule 4": 54,
+            "Rule 5": 969
+        },
+        {
+            "created_at": "2025-01-08T06:52:44Z",
+            "version": "8.1.0",
+            "Rule 1": 693,
+            "Rule 2": 511,
+            "Rule 3": 685,
+            "Rule 4": 98,
+            "Rule 5": 795
+        },
+        {
+            "created_at": "2025-01-08T22:54:06Z",
+            "version": "8.1.0",
+            "Rule 1": 233,
+            "Rule 2": 204,
+            "Rule 3": 466,
+            "Rule 4": 339,
+            "Rule 5": 391
+        },
+        {
+            "created_at": "2025-01-08T15:35:28Z",
+            "version": "8.1.0",
+            "Rule 1": 195,
+            "Rule 2": 334,
+            "Rule 3": 381,
+            "Rule 4": 948,
+            "Rule 5": 587
+        },
+        {
+            "created_at": "2025-01-08T11:24:56Z",
+            "version": "8.1.0",
+            "Rule 1": 746,
+            "Rule 2": 326,
+            "Rule 3": 909,
+            "Rule 4": 9,
+            "Rule 5": 974
+        },
+        {
+            "created_at": "2025-01-08T06:52:37Z",
+            "version": "8.1.0",
+            "Rule 1": 821,
+            "Rule 2": 153,
+            "Rule 3": 452,
+            "Rule 4": 208,
+            "Rule 5": 498
+        },
+        {
+            "created_at": "2025-01-08T22:40:53Z",
+            "version": "8.1.0",
+            "Rule 1": 640,
+            "Rule 2": 370,
+            "Rule 3": 181,
+            "Rule 4": 961,
+            "Rule 5": 427
+        },
+        {
+            "created_at": "2025-01-08T18:39:55Z",
+            "version": "8.1.0",
+            "Rule 1": 160,
+            "Rule 2": 415,
+            "Rule 3": 495,
+            "Rule 4": 956,
+            "Rule 5": 516
+        },
+        {
+            "created_at": "2025-01-08T01:36:35Z",
+            "version": "8.1.0",
+            "Rule 1": 229,
+            "Rule 2": 196,
+            "Rule 3": 482,
+            "Rule 4": 955,
+            "Rule 5": 897
+        },
+        {
+            "created_at": "2025-01-08T04:15:02Z",
+            "version": "8.1.0",
+            "Rule 1": 902,
+            "Rule 2": 482,
+            "Rule 3": 66,
+            "Rule 4": 861,
+            "Rule 5": 555
+        },
+        {
+            "created_at": "2025-01-08T19:11:44Z",
+            "version": "8.1.0",
+            "Rule 1": 400,
+            "Rule 2": 610,
+            "Rule 3": 634,
+            "Rule 4": 702,
+            "Rule 5": 816
+        },
+        {
+            "created_at": "2025-01-08T12:03:07Z",
+            "version": "8.1.0",
+            "Rule 1": 229,
+            "Rule 2": 221,
+            "Rule 3": 272,
+            "Rule 4": 158,
+            "Rule 5": 641
+        },
+        {
+            "created_at": "2025-01-08T11:07:16Z",
+            "version": "8.1.0",
+            "Rule 1": 357,
+            "Rule 2": 218,
+            "Rule 3": 24,
+            "Rule 4": 989,
+            "Rule 5": 151
+        },
+        {
+            "created_at": "2025-01-08T01:21:22Z",
+            "version": "8.1.0",
+            "Rule 1": 312,
+            "Rule 2": 881,
+            "Rule 3": 673,
+            "Rule 4": 644,
+            "Rule 5": 224
+        },
+        {
+            "created_at": "2025-01-08T11:28:31Z",
+            "version": "8.1.0",
+            "Rule 1": 31,
+            "Rule 2": 124,
+            "Rule 3": 63,
+            "Rule 4": 593,
+            "Rule 5": 107
+        },
+        {
+            "created_at": "2025-01-08T15:47:44Z",
+            "version": "8.1.0",
+            "Rule 1": 128,
+            "Rule 2": 825,
+            "Rule 3": 720,
+            "Rule 4": 395,
+            "Rule 5": 133
+        },
+        {
+            "created_at": "2025-01-08T05:26:50Z",
+            "version": "8.1.0",
+            "Rule 1": 255,
+            "Rule 2": 73,
+            "Rule 3": 362,
+            "Rule 4": 198,
+            "Rule 5": 568
+        },
+        {
+            "created_at": "2025-01-08T02:56:40Z",
+            "version": "8.1.0",
+            "Rule 1": 320,
+            "Rule 2": 345,
+            "Rule 3": 927,
+            "Rule 4": 279,
+            "Rule 5": 827
+        },
+        {
+            "created_at": "2025-01-08T12:52:24Z",
+            "version": "8.1.0",
+            "Rule 1": 928,
+            "Rule 2": 352,
+            "Rule 3": 134,
+            "Rule 4": 517,
+            "Rule 5": 445
+        },
+        {
+            "created_at": "2025-01-08T06:18:11Z",
+            "version": "8.1.0",
+            "Rule 1": 502,
+            "Rule 2": 193,
+            "Rule 3": 324,
+            "Rule 4": 482,
+            "Rule 5": 859
+        },
+        {
+            "created_at": "2025-01-08T16:56:20Z",
+            "version": "8.1.0",
+            "Rule 1": 662,
+            "Rule 2": 135,
+            "Rule 3": 214,
+            "Rule 4": 610,
+            "Rule 5": 404
+        },
+        {
+            "created_at": "2025-01-08T20:32:14Z",
+            "version": "8.1.0",
+            "Rule 1": 996,
+            "Rule 2": 532,
+            "Rule 3": 925,
+            "Rule 4": 77,
+            "Rule 5": 126
+        },
+        {
+            "created_at": "2025-01-08T09:01:53Z",
+            "version": "8.1.0",
+            "Rule 1": 192,
+            "Rule 2": 869,
+            "Rule 3": 474,
+            "Rule 4": 545,
+            "Rule 5": 304
+        },
+        {
+            "created_at": "2025-01-08T09:45:25Z",
+            "version": "8.1.0",
+            "Rule 1": 891,
+            "Rule 2": 807,
+            "Rule 3": 727,
+            "Rule 4": 89,
+            "Rule 5": 981
+        },
+        {
+            "created_at": "2025-01-08T21:18:53Z",
+            "version": "8.1.0",
+            "Rule 1": 424,
+            "Rule 2": 5,
+            "Rule 3": 493,
+            "Rule 4": 877,
+            "Rule 5": 846
+        },
+        {
+            "created_at": "2025-01-08T15:18:30Z",
+            "version": "8.1.0",
+            "Rule 1": 24,
+            "Rule 2": 356,
+            "Rule 3": 656,
+            "Rule 4": 424,
+            "Rule 5": 910
+        },
+        {
+            "created_at": "2025-01-08T07:03:20Z",
+            "version": "8.1.0",
+            "Rule 1": 188,
+            "Rule 2": 989,
+            "Rule 3": 520,
+            "Rule 4": 712,
+            "Rule 5": 760
+        },
+        {
+            "created_at": "2025-01-08T22:44:22Z",
+            "version": "8.1.0",
+            "Rule 1": 78,
+            "Rule 2": 628,
+            "Rule 3": 302,
+            "Rule 4": 244,
+            "Rule 5": 26
+        },
+        {
+            "created_at": "2025-01-08T06:05:15Z",
+            "version": "8.1.0",
+            "Rule 1": 664,
+            "Rule 2": 683,
+            "Rule 3": 564,
+            "Rule 4": 100,
+            "Rule 5": 104
+        },
+        {
+            "created_at": "2025-01-08T05:04:49Z",
+            "version": "8.1.0",
+            "Rule 1": 738,
+            "Rule 2": 759,
+            "Rule 3": 234,
+            "Rule 4": 85,
+            "Rule 5": 531
+        },
+        {
+            "created_at": "2025-01-08T04:49:39Z",
+            "version": "8.1.0",
+            "Rule 1": 127,
+            "Rule 2": 351,
+            "Rule 3": 934,
+            "Rule 4": 497,
+            "Rule 5": 535
+        },
+        {
+            "created_at": "2025-01-08T17:54:46Z",
+            "version": "8.1.0",
+            "Rule 1": 294,
+            "Rule 2": 612,
+            "Rule 3": 313,
+            "Rule 4": 935,
+            "Rule 5": 148
+        },
+        {
+            "created_at": "2025-01-08T13:45:57Z",
+            "version": "8.1.0",
+            "Rule 1": 966,
+            "Rule 2": 331,
+            "Rule 3": 409,
+            "Rule 4": 336,
+            "Rule 5": 149
+        },
+        {
+            "created_at": "2025-01-08T19:21:29Z",
+            "version": "8.1.0",
+            "Rule 1": 833,
+            "Rule 2": 595,
+            "Rule 3": 645,
+            "Rule 4": 181,
+            "Rule 5": 889
+        },
+        {
+            "created_at": "2025-01-08T03:10:01Z",
+            "version": "8.1.0",
+            "Rule 1": 325,
+            "Rule 2": 943,
+            "Rule 3": 303,
+            "Rule 4": 645,
+            "Rule 5": 937
+        },
+        {
+            "created_at": "2025-01-08T22:29:42Z",
+            "version": "8.1.0",
+            "Rule 1": 220,
+            "Rule 2": 568,
+            "Rule 3": 747,
+            "Rule 4": 411,
+            "Rule 5": 593
+        },
+        {
+            "created_at": "2025-01-08T21:57:54Z",
+            "version": "8.1.0",
+            "Rule 1": 398,
+            "Rule 2": 906,
+            "Rule 3": 437,
+            "Rule 4": 87,
+            "Rule 5": 717
+        },
+        {
+            "created_at": "2025-01-08T07:38:00Z",
+            "version": "8.1.0",
+            "Rule 1": 433,
+            "Rule 2": 116,
+            "Rule 3": 575,
+            "Rule 4": 200,
+            "Rule 5": 301
+        },
+        {
+            "created_at": "2025-01-08T23:34:04Z",
+            "version": "8.1.0",
+            "Rule 1": 387,
+            "Rule 2": 306,
+            "Rule 3": 319,
+            "Rule 4": 253,
+            "Rule 5": 108
+        },
+        {
+            "created_at": "2025-01-08T02:06:24Z",
+            "version": "8.1.0",
+            "Rule 1": 735,
+            "Rule 2": 926,
+            "Rule 3": 939,
+            "Rule 4": 415,
+            "Rule 5": 694
+        },
+        {
+            "created_at": "2025-01-08T21:25:04Z",
+            "version": "8.1.0",
+            "Rule 1": 504,
+            "Rule 2": 131,
+            "Rule 3": 341,
+            "Rule 4": 96,
+            "Rule 5": 510
+        },
+        {
+            "created_at": "2025-01-08T20:44:44Z",
+            "version": "8.1.0",
+            "Rule 1": 684,
+            "Rule 2": 477,
+            "Rule 3": 538,
+            "Rule 4": 570,
+            "Rule 5": 729
+        },
+        {
+            "created_at": "2025-01-08T07:37:25Z",
+            "version": "8.1.0",
+            "Rule 1": 642,
+            "Rule 2": 773,
+            "Rule 3": 241,
+            "Rule 4": 558,
+            "Rule 5": 890
+        },
+        {
+            "created_at": "2025-01-08T15:49:48Z",
+            "version": "8.1.0",
+            "Rule 1": 400,
+            "Rule 2": 698,
+            "Rule 3": 75,
+            "Rule 4": 692,
+            "Rule 5": 725
+        },
+        {
+            "created_at": "2025-01-08T15:44:38Z",
+            "version": "8.1.0",
+            "Rule 1": 209,
+            "Rule 2": 268,
+            "Rule 3": 176,
+            "Rule 4": 876,
+            "Rule 5": 729
+        },
+        {
+            "created_at": "2025-01-08T20:48:18Z",
+            "version": "8.1.0",
+            "Rule 1": 183,
+            "Rule 2": 785,
+            "Rule 3": 242,
+            "Rule 4": 851,
+            "Rule 5": 54
+        },
+        {
+            "created_at": "2025-01-08T14:34:05Z",
+            "version": "8.1.0",
+            "Rule 1": 470,
+            "Rule 2": 320,
+            "Rule 3": 934,
+            "Rule 4": 742,
+            "Rule 5": 919
+        },
+        {
+            "created_at": "2025-01-08T05:22:23Z",
+            "version": "8.1.0",
+            "Rule 1": 911,
+            "Rule 2": 178,
+            "Rule 3": 387,
+            "Rule 4": 429,
+            "Rule 5": 590
+        },
+        {
+            "created_at": "2025-01-08T01:10:17Z",
+            "version": "8.1.0",
+            "Rule 1": 274,
+            "Rule 2": 309,
+            "Rule 3": 343,
+            "Rule 4": 326,
+            "Rule 5": 329
+        },
+        {
+            "created_at": "2025-01-08T07:34:50Z",
+            "version": "8.1.0",
+            "Rule 1": 818,
+            "Rule 2": 755,
+            "Rule 3": 927,
+            "Rule 4": 484,
+            "Rule 5": 612
+        },
+        {
+            "created_at": "2025-01-08T05:22:08Z",
+            "version": "8.1.0",
+            "Rule 1": 67,
+            "Rule 2": 796,
+            "Rule 3": 672,
+            "Rule 4": 488,
+            "Rule 5": 437
+        },
+        {
+            "created_at": "2025-01-08T20:57:53Z",
+            "version": "8.1.0",
+            "Rule 1": 769,
+            "Rule 2": 487,
+            "Rule 3": 35,
+            "Rule 4": 413,
+            "Rule 5": 377
+        },
+        {
+            "created_at": "2025-01-08T20:39:38Z",
+            "version": "8.1.0",
+            "Rule 1": 972,
+            "Rule 2": 957,
+            "Rule 3": 997,
+            "Rule 4": 793,
+            "Rule 5": 753
+        },
+        {
+            "created_at": "2025-01-08T18:26:23Z",
+            "version": "8.1.0",
+            "Rule 1": 669,
+            "Rule 2": 375,
+            "Rule 3": 378,
+            "Rule 4": 836,
+            "Rule 5": 469
+        },
+        {
+            "created_at": "2025-01-08T13:58:39Z",
+            "version": "8.1.0",
+            "Rule 1": 917,
+            "Rule 2": 94,
+            "Rule 3": 624,
+            "Rule 4": 550,
+            "Rule 5": 419
+        },
+        {
+            "created_at": "2025-01-08T18:27:49Z",
+            "version": "8.1.0",
+            "Rule 1": 16,
+            "Rule 2": 20,
+            "Rule 3": 654,
+            "Rule 4": 58,
+            "Rule 5": 918
+        },
+        {
+            "created_at": "2025-01-08T23:55:06Z",
+            "version": "8.1.0",
+            "Rule 1": 536,
+            "Rule 2": 797,
+            "Rule 3": 367,
+            "Rule 4": 538,
+            "Rule 5": 549
+        },
+        {
+            "created_at": "2025-01-08T06:18:59Z",
+            "version": "8.1.0",
+            "Rule 1": 288,
+            "Rule 2": 211,
+            "Rule 3": 551,
+            "Rule 4": 228,
+            "Rule 5": 190
+        },
+        {
+            "created_at": "2025-01-08T17:51:58Z",
+            "version": "8.1.0",
+            "Rule 1": 22,
+            "Rule 2": 608,
+            "Rule 3": 439,
+            "Rule 4": 757,
+            "Rule 5": 782
+        },
+        {
+            "created_at": "2025-01-08T20:05:51Z",
+            "version": "8.1.0",
+            "Rule 1": 766,
+            "Rule 2": 489,
+            "Rule 3": 142,
+            "Rule 4": 484,
+            "Rule 5": 653
+        },
+        {
+            "created_at": "2025-01-08T05:53:34Z",
+            "version": "8.1.0",
+            "Rule 1": 28,
+            "Rule 2": 114,
+            "Rule 3": 918,
+            "Rule 4": 555,
+            "Rule 5": 952
+        },
+        {
+            "created_at": "2025-01-08T07:38:07Z",
+            "version": "8.1.0",
+            "Rule 1": 566,
+            "Rule 2": 466,
+            "Rule 3": 615,
+            "Rule 4": 877,
+            "Rule 5": 979
+        },
+        {
+            "created_at": "2025-01-08T15:28:22Z",
+            "version": "8.1.0",
+            "Rule 1": 262,
+            "Rule 2": 388,
+            "Rule 3": 311,
+            "Rule 4": 908,
+            "Rule 5": 443
+        },
+        {
+            "created_at": "2025-01-08T00:04:36Z",
+            "version": "8.1.0",
+            "Rule 1": 832,
+            "Rule 2": 637,
+            "Rule 3": 446,
+            "Rule 4": 387,
+            "Rule 5": 744
+        },
+        {
+            "created_at": "2025-01-08T19:00:35Z",
+            "version": "8.1.0",
+            "Rule 1": 2,
+            "Rule 2": 163,
+            "Rule 3": 370,
+            "Rule 4": 807,
+            "Rule 5": 87
+        },
+        {
+            "created_at": "2025-01-08T13:22:30Z",
+            "version": "8.1.0",
+            "Rule 1": 762,
+            "Rule 2": 709,
+            "Rule 3": 315,
+            "Rule 4": 995,
+            "Rule 5": 732
+        },
+        {
+            "created_at": "2025-01-08T19:16:02Z",
+            "version": "8.1.0",
+            "Rule 1": 900,
+            "Rule 2": 410,
+            "Rule 3": 338,
+            "Rule 4": 957,
+            "Rule 5": 824
+        },
+        {
+            "created_at": "2025-01-08T20:30:08Z",
+            "version": "8.1.0",
+            "Rule 1": 133,
+            "Rule 2": 311,
+            "Rule 3": 365,
+            "Rule 4": 92,
+            "Rule 5": 799
+        },
+        {
+            "created_at": "2025-01-08T20:05:58Z",
+            "version": "8.1.0",
+            "Rule 1": 531,
+            "Rule 2": 611,
+            "Rule 3": 577,
+            "Rule 4": 527,
+            "Rule 5": 599
+        },
+        {
+            "created_at": "2025-01-08T00:23:15Z",
+            "version": "8.1.0",
+            "Rule 1": 119,
+            "Rule 2": 996,
+            "Rule 3": 420,
+            "Rule 4": 389,
+            "Rule 5": 966
+        },
+        {
+            "created_at": "2025-01-08T13:34:39Z",
+            "version": "8.1.0",
+            "Rule 1": 667,
+            "Rule 2": 444,
+            "Rule 3": 784,
+            "Rule 4": 116,
+            "Rule 5": 78
+        },
+        {
+            "created_at": "2025-01-08T04:47:22Z",
+            "version": "8.1.0",
+            "Rule 1": 93,
+            "Rule 2": 606,
+            "Rule 3": 683,
+            "Rule 4": 582,
+            "Rule 5": 799
+        },
+        {
+            "created_at": "2025-01-08T07:50:40Z",
+            "version": "8.1.0",
+            "Rule 1": 405,
+            "Rule 2": 70,
+            "Rule 3": 811,
+            "Rule 4": 132,
+            "Rule 5": 412
+        },
+        {
+            "created_at": "2025-01-08T19:52:27Z",
+            "version": "8.1.0",
+            "Rule 1": 32,
+            "Rule 2": 175,
+            "Rule 3": 841,
+            "Rule 4": 996,
+            "Rule 5": 661
+        },
+        {
+            "created_at": "2025-01-08T09:15:31Z",
+            "version": "8.1.0",
+            "Rule 1": 568,
+            "Rule 2": 808,
+            "Rule 3": 89,
+            "Rule 4": 56,
+            "Rule 5": 688
+        },
+        {
+            "created_at": "2025-01-08T02:25:01Z",
+            "version": "8.1.0",
+            "Rule 1": 758,
+            "Rule 2": 413,
+            "Rule 3": 385,
+            "Rule 4": 148,
+            "Rule 5": 1000
+        },
+        {
+            "created_at": "2025-01-08T09:04:02Z",
+            "version": "8.1.0",
+            "Rule 1": 804,
+            "Rule 2": 36,
+            "Rule 3": 705,
+            "Rule 4": 823,
+            "Rule 5": 76
+        },
+        {
+            "created_at": "2025-01-08T01:27:01Z",
+            "version": "8.1.0",
+            "Rule 1": 199,
+            "Rule 2": 779,
+            "Rule 3": 293,
+            "Rule 4": 802,
+            "Rule 5": 464
+        },
+        {
+            "created_at": "2025-01-08T06:21:25Z",
+            "version": "8.1.0",
+            "Rule 1": 516,
+            "Rule 2": 587,
+            "Rule 3": 1,
+            "Rule 4": 747,
+            "Rule 5": 96
+        },
+        {
+            "created_at": "2025-01-08T20:37:36Z",
+            "version": "8.1.0",
+            "Rule 1": 757,
+            "Rule 2": 319,
+            "Rule 3": 169,
+            "Rule 4": 304,
+            "Rule 5": 927
+        },
+        {
+            "created_at": "2025-01-08T15:52:16Z",
+            "version": "8.1.0",
+            "Rule 1": 718,
+            "Rule 2": 564,
+            "Rule 3": 478,
+            "Rule 4": 326,
+            "Rule 5": 409
+        },
+        {
+            "created_at": "2025-01-08T07:30:08Z",
+            "version": "8.1.0",
+            "Rule 1": 452,
+            "Rule 2": 679,
+            "Rule 3": 442,
+            "Rule 4": 237,
+            "Rule 5": 418
+        },
+        {
+            "created_at": "2025-01-08T07:16:55Z",
+            "version": "8.1.0",
+            "Rule 1": 599,
+            "Rule 2": 56,
+            "Rule 3": 836,
+            "Rule 4": 835,
+            "Rule 5": 437
+        },
+        {
+            "created_at": "2025-01-08T20:15:21Z",
+            "version": "8.1.0",
+            "Rule 1": 570,
+            "Rule 2": 423,
+            "Rule 3": 499,
+            "Rule 4": 531,
+            "Rule 5": 551
+        },
+        {
+            "created_at": "2025-01-08T04:18:56Z",
+            "version": "8.1.0",
+            "Rule 1": 180,
+            "Rule 2": 472,
+            "Rule 3": 86,
+            "Rule 4": 865,
+            "Rule 5": 685
+        },
+        {
+            "created_at": "2025-01-08T02:55:04Z",
+            "version": "8.1.0",
+            "Rule 1": 799,
+            "Rule 2": 922,
+            "Rule 3": 36,
+            "Rule 4": 362,
+            "Rule 5": 548
+        },
+        {
+            "created_at": "2025-01-08T08:28:39Z",
+            "version": "8.1.0",
+            "Rule 1": 182,
+            "Rule 2": 613,
+            "Rule 3": 600,
+            "Rule 4": 898,
+            "Rule 5": 287
+        },
+        {
+            "created_at": "2025-01-08T04:41:33Z",
+            "version": "8.1.0",
+            "Rule 1": 560,
+            "Rule 2": 276,
+            "Rule 3": 870,
+            "Rule 4": 404,
+            "Rule 5": 284
+        },
+        {
+            "created_at": "2025-01-08T14:45:38Z",
+            "version": "8.1.0",
+            "Rule 1": 687,
+            "Rule 2": 665,
+            "Rule 3": 405,
+            "Rule 4": 845,
+            "Rule 5": 852
+        },
+        {
+            "created_at": "2025-01-08T19:25:42Z",
+            "version": "8.1.0",
+            "Rule 1": 464,
+            "Rule 2": 242,
+            "Rule 3": 487,
+            "Rule 4": 717,
+            "Rule 5": 494
+        },
+        {
+            "created_at": "2025-01-08T06:38:30Z",
+            "version": "8.1.0",
+            "Rule 1": 421,
+            "Rule 2": 452,
+            "Rule 3": 661,
+            "Rule 4": 815,
+            "Rule 5": 758
+        },
+        {
+            "created_at": "2025-01-08T18:18:22Z",
+            "version": "8.1.0",
+            "Rule 1": 410,
+            "Rule 2": 398,
+            "Rule 3": 830,
+            "Rule 4": 518,
+            "Rule 5": 184
+        },
+        {
+            "created_at": "2025-01-08T00:40:28Z",
+            "version": "8.1.0",
+            "Rule 1": 267,
+            "Rule 2": 543,
+            "Rule 3": 571,
+            "Rule 4": 893,
+            "Rule 5": 134
+        },
+        {
+            "created_at": "2025-01-08T00:10:51Z",
+            "version": "8.1.0",
+            "Rule 1": 265,
+            "Rule 2": 17,
+            "Rule 3": 632,
+            "Rule 4": 296,
+            "Rule 5": 39
+        },
+        {
+            "created_at": "2025-01-08T11:53:08Z",
+            "version": "8.1.0",
+            "Rule 1": 584,
+            "Rule 2": 343,
+            "Rule 3": 445,
+            "Rule 4": 86,
+            "Rule 5": 579
+        },
+        {
+            "created_at": "2025-01-08T11:46:50Z",
+            "version": "8.1.0",
+            "Rule 1": 500,
+            "Rule 2": 259,
+            "Rule 3": 141,
+            "Rule 4": 644,
+            "Rule 5": 135
+        },
+        {
+            "created_at": "2025-01-08T06:02:13Z",
+            "version": "8.1.0",
+            "Rule 1": 698,
+            "Rule 2": 592,
+            "Rule 3": 545,
+            "Rule 4": 322,
+            "Rule 5": 385
+        },
+        {
+            "created_at": "2025-01-08T15:03:53Z",
+            "version": "8.1.0",
+            "Rule 1": 968,
+            "Rule 2": 561,
+            "Rule 3": 263,
+            "Rule 4": 872,
+            "Rule 5": 252
+        },
+        {
+            "created_at": "2025-01-08T16:51:44Z",
+            "version": "8.2.0",
+            "Rule 1": 523,
+            "Rule 2": 381,
+            "Rule 3": 12,
+            "Rule 4": 687,
+            "Rule 5": 494
+        },
+        {
+            "created_at": "2025-01-08T03:11:59Z",
+            "version": "8.2.0",
+            "Rule 1": 792,
+            "Rule 2": 466,
+            "Rule 3": 519,
+            "Rule 4": 922,
+            "Rule 5": 734
+        },
+        {
+            "created_at": "2025-01-08T10:57:23Z",
+            "version": "8.2.0",
+            "Rule 1": 592,
+            "Rule 2": 660,
+            "Rule 3": 212,
+            "Rule 4": 454,
+            "Rule 5": 888
+        },
+        {
+            "created_at": "2025-01-08T07:45:02Z",
+            "version": "8.2.0",
+            "Rule 1": 70,
+            "Rule 2": 988,
+            "Rule 3": 477,
+            "Rule 4": 933,
+            "Rule 5": 583
+        },
+        {
+            "created_at": "2025-01-08T13:59:22Z",
+            "version": "8.2.0",
+            "Rule 1": 895,
+            "Rule 2": 193,
+            "Rule 3": 305,
+            "Rule 4": 340,
+            "Rule 5": 545
+        },
+        {
+            "created_at": "2025-01-08T02:33:13Z",
+            "version": "8.2.0",
+            "Rule 1": 941,
+            "Rule 2": 990,
+            "Rule 3": 990,
+            "Rule 4": 424,
+            "Rule 5": 981
+        },
+        {
+            "created_at": "2025-01-08T01:07:00Z",
+            "version": "8.2.0",
+            "Rule 1": 589,
+            "Rule 2": 647,
+            "Rule 3": 771,
+            "Rule 4": 66,
+            "Rule 5": 260
+        },
+        {
+            "created_at": "2025-01-08T19:55:46Z",
+            "version": "8.2.0",
+            "Rule 1": 721,
+            "Rule 2": 933,
+            "Rule 3": 170,
+            "Rule 4": 713,
+            "Rule 5": 826
+        },
+        {
+            "created_at": "2025-01-08T06:21:42Z",
+            "version": "8.2.0",
+            "Rule 1": 3,
+            "Rule 2": 91,
+            "Rule 3": 76,
+            "Rule 4": 476,
+            "Rule 5": 639
+        },
+        {
+            "created_at": "2025-01-08T07:09:39Z",
+            "version": "8.2.0",
+            "Rule 1": 984,
+            "Rule 2": 261,
+            "Rule 3": 780,
+            "Rule 4": 638,
+            "Rule 5": 713
+        },
+        {
+            "created_at": "2025-01-08T19:26:46Z",
+            "version": "8.2.0",
+            "Rule 1": 359,
+            "Rule 2": 955,
+            "Rule 3": 436,
+            "Rule 4": 953,
+            "Rule 5": 308
+        },
+        {
+            "created_at": "2025-01-08T06:24:39Z",
+            "version": "8.2.0",
+            "Rule 1": 266,
+            "Rule 2": 174,
+            "Rule 3": 869,
+            "Rule 4": 83,
+            "Rule 5": 750
+        },
+        {
+            "created_at": "2025-01-08T00:18:47Z",
+            "version": "8.2.0",
+            "Rule 1": 438,
+            "Rule 2": 522,
+            "Rule 3": 283,
+            "Rule 4": 249,
+            "Rule 5": 910
+        },
+        {
+            "created_at": "2025-01-08T07:33:39Z",
+            "version": "8.2.0",
+            "Rule 1": 683,
+            "Rule 2": 133,
+            "Rule 3": 831,
+            "Rule 4": 704,
+            "Rule 5": 601
+        },
+        {
+            "created_at": "2025-01-08T11:49:46Z",
+            "version": "8.2.0",
+            "Rule 1": 767,
+            "Rule 2": 959,
+            "Rule 3": 708,
+            "Rule 4": 690,
+            "Rule 5": 800
+        },
+        {
+            "created_at": "2025-01-08T12:36:57Z",
+            "version": "8.2.0",
+            "Rule 1": 130,
+            "Rule 2": 331,
+            "Rule 3": 515,
+            "Rule 4": 58,
+            "Rule 5": 583
+        },
+        {
+            "created_at": "2025-01-08T06:42:52Z",
+            "version": "8.2.0",
+            "Rule 1": 845,
+            "Rule 2": 245,
+            "Rule 3": 445,
+            "Rule 4": 510,
+            "Rule 5": 493
+        },
+        {
+            "created_at": "2025-01-08T15:46:27Z",
+            "version": "8.2.0",
+            "Rule 1": 285,
+            "Rule 2": 48,
+            "Rule 3": 453,
+            "Rule 4": 663,
+            "Rule 5": 202
+        },
+        {
+            "created_at": "2025-01-08T03:39:20Z",
+            "version": "8.2.0",
+            "Rule 1": 261,
+            "Rule 2": 617,
+            "Rule 3": 342,
+            "Rule 4": 835,
+            "Rule 5": 512
+        },
+        {
+            "created_at": "2025-01-08T10:21:58Z",
+            "version": "8.2.0",
+            "Rule 1": 230,
+            "Rule 2": 613,
+            "Rule 3": 955,
+            "Rule 4": 532,
+            "Rule 5": 79
+        },
+        {
+            "created_at": "2025-01-08T12:06:54Z",
+            "version": "8.2.0",
+            "Rule 1": 90,
+            "Rule 2": 864,
+            "Rule 3": 263,
+            "Rule 4": 979,
+            "Rule 5": 493
+        },
+        {
+            "created_at": "2025-01-08T02:38:04Z",
+            "version": "8.2.0",
+            "Rule 1": 19,
+            "Rule 2": 966,
+            "Rule 3": 278,
+            "Rule 4": 192,
+            "Rule 5": 562
+        },
+        {
+            "created_at": "2025-01-08T23:26:59Z",
+            "version": "8.2.0",
+            "Rule 1": 484,
+            "Rule 2": 520,
+            "Rule 3": 36,
+            "Rule 4": 763,
+            "Rule 5": 685
+        },
+        {
+            "created_at": "2025-01-08T09:12:20Z",
+            "version": "8.2.0",
+            "Rule 1": 504,
+            "Rule 2": 274,
+            "Rule 3": 853,
+            "Rule 4": 215,
+            "Rule 5": 545
+        },
+        {
+            "created_at": "2025-01-08T00:53:00Z",
+            "version": "8.2.0",
+            "Rule 1": 180,
+            "Rule 2": 345,
+            "Rule 3": 17,
+            "Rule 4": 179,
+            "Rule 5": 932
+        },
+        {
+            "created_at": "2025-01-08T12:53:42Z",
+            "version": "8.2.0",
+            "Rule 1": 734,
+            "Rule 2": 90,
+            "Rule 3": 8,
+            "Rule 4": 221,
+            "Rule 5": 220
+        },
+        {
+            "created_at": "2025-01-08T23:21:30Z",
+            "version": "8.2.0",
+            "Rule 1": 744,
+            "Rule 2": 118,
+            "Rule 3": 760,
+            "Rule 4": 790,
+            "Rule 5": 279
+        },
+        {
+            "created_at": "2025-01-08T09:49:55Z",
+            "version": "8.2.0",
+            "Rule 1": 301,
+            "Rule 2": 184,
+            "Rule 3": 522,
+            "Rule 4": 456,
+            "Rule 5": 415
+        },
+        {
+            "created_at": "2025-01-08T16:21:52Z",
+            "version": "8.2.0",
+            "Rule 1": 894,
+            "Rule 2": 260,
+            "Rule 3": 504,
+            "Rule 4": 223,
+            "Rule 5": 623
+        },
+        {
+            "created_at": "2025-01-08T17:02:26Z",
+            "version": "8.2.0",
+            "Rule 1": 837,
+            "Rule 2": 801,
+            "Rule 3": 553,
+            "Rule 4": 773,
+            "Rule 5": 544
+        },
+        {
+            "created_at": "2025-01-08T16:51:15Z",
+            "version": "8.2.0",
+            "Rule 1": 373,
+            "Rule 2": 616,
+            "Rule 3": 940,
+            "Rule 4": 196,
+            "Rule 5": 430
+        },
+        {
+            "created_at": "2025-01-08T01:28:37Z",
+            "version": "8.2.0",
+            "Rule 1": 323,
+            "Rule 2": 932,
+            "Rule 3": 171,
+            "Rule 4": 900,
+            "Rule 5": 691
+        },
+        {
+            "created_at": "2025-01-08T19:06:47Z",
+            "version": "8.2.0",
+            "Rule 1": 930,
+            "Rule 2": 314,
+            "Rule 3": 561,
+            "Rule 4": 593,
+            "Rule 5": 887
+        },
+        {
+            "created_at": "2025-01-08T23:43:48Z",
+            "version": "8.2.0",
+            "Rule 1": 977,
+            "Rule 2": 627,
+            "Rule 3": 479,
+            "Rule 4": 813,
+            "Rule 5": 153
+        },
+        {
+            "created_at": "2025-01-08T16:54:39Z",
+            "version": "8.2.0",
+            "Rule 1": 678,
+            "Rule 2": 416,
+            "Rule 3": 769,
+            "Rule 4": 163,
+            "Rule 5": 961
+        },
+        {
+            "created_at": "2025-01-08T16:27:18Z",
+            "version": "8.2.0",
+            "Rule 1": 968,
+            "Rule 2": 427,
+            "Rule 3": 286,
+            "Rule 4": 840,
+            "Rule 5": 92
+        },
+        {
+            "created_at": "2025-01-08T12:19:31Z",
+            "version": "8.2.0",
+            "Rule 1": 513,
+            "Rule 2": 816,
+            "Rule 3": 853,
+            "Rule 4": 276,
+            "Rule 5": 625
+        },
+        {
+            "created_at": "2025-01-08T09:19:31Z",
+            "version": "8.2.0",
+            "Rule 1": 900,
+            "Rule 2": 710,
+            "Rule 3": 108,
+            "Rule 4": 125,
+            "Rule 5": 975
+        },
+        {
+            "created_at": "2025-01-08T03:48:28Z",
+            "version": "8.2.0",
+            "Rule 1": 215,
+            "Rule 2": 190,
+            "Rule 3": 202,
+            "Rule 4": 492,
+            "Rule 5": 247
+        },
+        {
+            "created_at": "2025-01-08T01:01:37Z",
+            "version": "8.2.0",
+            "Rule 1": 723,
+            "Rule 2": 773,
+            "Rule 3": 173,
+            "Rule 4": 402,
+            "Rule 5": 208
+        },
+        {
+            "created_at": "2025-01-08T23:08:28Z",
+            "version": "8.2.0",
+            "Rule 1": 836,
+            "Rule 2": 987,
+            "Rule 3": 410,
+            "Rule 4": 718,
+            "Rule 5": 159
+        },
+        {
+            "created_at": "2025-01-08T08:00:13Z",
+            "version": "8.2.0",
+            "Rule 1": 342,
+            "Rule 2": 228,
+            "Rule 3": 2,
+            "Rule 4": 475,
+            "Rule 5": 179
+        },
+        {
+            "created_at": "2025-01-08T09:50:36Z",
+            "version": "8.2.0",
+            "Rule 1": 732,
+            "Rule 2": 449,
+            "Rule 3": 459,
+            "Rule 4": 888,
+            "Rule 5": 772
+        },
+        {
+            "created_at": "2025-01-08T22:21:35Z",
+            "version": "8.2.0",
+            "Rule 1": 689,
+            "Rule 2": 68,
+            "Rule 3": 915,
+            "Rule 4": 992,
+            "Rule 5": 787
+        },
+        {
+            "created_at": "2025-01-08T06:17:57Z",
+            "version": "8.2.0",
+            "Rule 1": 137,
+            "Rule 2": 696,
+            "Rule 3": 241,
+            "Rule 4": 759,
+            "Rule 5": 258
+        },
+        {
+            "created_at": "2025-01-08T13:52:32Z",
+            "version": "8.2.0",
+            "Rule 1": 462,
+            "Rule 2": 319,
+            "Rule 3": 405,
+            "Rule 4": 534,
+            "Rule 5": 287
+        },
+        {
+            "created_at": "2025-01-08T02:35:50Z",
+            "version": "8.2.0",
+            "Rule 1": 918,
+            "Rule 2": 307,
+            "Rule 3": 938,
+            "Rule 4": 366,
+            "Rule 5": 422
+        },
+        {
+            "created_at": "2025-01-08T14:25:08Z",
+            "version": "8.2.0",
+            "Rule 1": 548,
+            "Rule 2": 369,
+            "Rule 3": 854,
+            "Rule 4": 683,
+            "Rule 5": 495
+        },
+        {
+            "created_at": "2025-01-08T08:50:57Z",
+            "version": "8.2.0",
+            "Rule 1": 504,
+            "Rule 2": 569,
+            "Rule 3": 723,
+            "Rule 4": 133,
+            "Rule 5": 721
+        },
+        {
+            "created_at": "2025-01-08T15:45:44Z",
+            "version": "8.2.0",
+            "Rule 1": 847,
+            "Rule 2": 955,
+            "Rule 3": 929,
+            "Rule 4": 954,
+            "Rule 5": 703
+        },
+        {
+            "created_at": "2025-01-08T08:56:34Z",
+            "version": "8.2.0",
+            "Rule 1": 244,
+            "Rule 2": 347,
+            "Rule 3": 783,
+            "Rule 4": 838,
+            "Rule 5": 943
+        },
+        {
+            "created_at": "2025-01-08T23:18:37Z",
+            "version": "8.2.0",
+            "Rule 1": 577,
+            "Rule 2": 637,
+            "Rule 3": 688,
+            "Rule 4": 549,
+            "Rule 5": 561
+        },
+        {
+            "created_at": "2025-01-08T22:38:14Z",
+            "version": "8.2.0",
+            "Rule 1": 567,
+            "Rule 2": 186,
+            "Rule 3": 145,
+            "Rule 4": 958,
+            "Rule 5": 453
+        },
+        {
+            "created_at": "2025-01-08T07:28:54Z",
+            "version": "8.2.0",
+            "Rule 1": 731,
+            "Rule 2": 532,
+            "Rule 3": 394,
+            "Rule 4": 242,
+            "Rule 5": 979
+        },
+        {
+            "created_at": "2025-01-08T17:50:47Z",
+            "version": "8.2.0",
+            "Rule 1": 529,
+            "Rule 2": 61,
+            "Rule 3": 182,
+            "Rule 4": 885,
+            "Rule 5": 362
+        },
+        {
+            "created_at": "2025-01-08T08:34:15Z",
+            "version": "8.2.0",
+            "Rule 1": 701,
+            "Rule 2": 328,
+            "Rule 3": 376,
+            "Rule 4": 603,
+            "Rule 5": 348
+        },
+        {
+            "created_at": "2025-01-08T07:10:48Z",
+            "version": "8.2.0",
+            "Rule 1": 938,
+            "Rule 2": 874,
+            "Rule 3": 998,
+            "Rule 4": 779,
+            "Rule 5": 115
+        },
+        {
+            "created_at": "2025-01-08T12:26:41Z",
+            "version": "8.2.0",
+            "Rule 1": 412,
+            "Rule 2": 578,
+            "Rule 3": 594,
+            "Rule 4": 32,
+            "Rule 5": 68
+        },
+        {
+            "created_at": "2025-01-08T03:35:45Z",
+            "version": "8.2.0",
+            "Rule 1": 962,
+            "Rule 2": 199,
+            "Rule 3": 128,
+            "Rule 4": 13,
+            "Rule 5": 975
+        },
+        {
+            "created_at": "2025-01-08T11:06:30Z",
+            "version": "8.2.0",
+            "Rule 1": 775,
+            "Rule 2": 93,
+            "Rule 3": 480,
+            "Rule 4": 419,
+            "Rule 5": 57
+        },
+        {
+            "created_at": "2025-01-08T11:08:09Z",
+            "version": "8.2.0",
+            "Rule 1": 905,
+            "Rule 2": 69,
+            "Rule 3": 432,
+            "Rule 4": 987,
+            "Rule 5": 527
+        },
+        {
+            "created_at": "2025-01-08T04:54:26Z",
+            "version": "8.2.0",
+            "Rule 1": 491,
+            "Rule 2": 939,
+            "Rule 3": 275,
+            "Rule 4": 835,
+            "Rule 5": 394
+        },
+        {
+            "created_at": "2025-01-08T07:13:33Z",
+            "version": "8.2.0",
+            "Rule 1": 96,
+            "Rule 2": 429,
+            "Rule 3": 447,
+            "Rule 4": 425,
+            "Rule 5": 201
+        },
+        {
+            "created_at": "2025-01-08T11:31:00Z",
+            "version": "8.2.0",
+            "Rule 1": 322,
+            "Rule 2": 610,
+            "Rule 3": 27,
+            "Rule 4": 123,
+            "Rule 5": 332
+        },
+        {
+            "created_at": "2025-01-08T11:58:26Z",
+            "version": "8.2.0",
+            "Rule 1": 720,
+            "Rule 2": 519,
+            "Rule 3": 659,
+            "Rule 4": 639,
+            "Rule 5": 285
+        },
+        {
+            "created_at": "2025-01-08T22:21:15Z",
+            "version": "8.2.0",
+            "Rule 1": 303,
+            "Rule 2": 104,
+            "Rule 3": 333,
+            "Rule 4": 315,
+            "Rule 5": 582
+        },
+        {
+            "created_at": "2025-01-08T06:02:36Z",
+            "version": "8.2.0",
+            "Rule 1": 869,
+            "Rule 2": 298,
+            "Rule 3": 86,
+            "Rule 4": 741,
+            "Rule 5": 847
+        },
+        {
+            "created_at": "2025-01-08T04:27:38Z",
+            "version": "8.2.0",
+            "Rule 1": 627,
+            "Rule 2": 565,
+            "Rule 3": 251,
+            "Rule 4": 504,
+            "Rule 5": 986
+        },
+        {
+            "created_at": "2025-01-08T21:29:29Z",
+            "version": "8.2.0",
+            "Rule 1": 846,
+            "Rule 2": 975,
+            "Rule 3": 418,
+            "Rule 4": 28,
+            "Rule 5": 851
+        },
+        {
+            "created_at": "2025-01-08T04:42:46Z",
+            "version": "8.2.0",
+            "Rule 1": 147,
+            "Rule 2": 141,
+            "Rule 3": 563,
+            "Rule 4": 445,
+            "Rule 5": 271
+        },
+        {
+            "created_at": "2025-01-08T14:23:40Z",
+            "version": "8.2.0",
+            "Rule 1": 125,
+            "Rule 2": 819,
+            "Rule 3": 249,
+            "Rule 4": 736,
+            "Rule 5": 486
+        },
+        {
+            "created_at": "2025-01-08T02:16:02Z",
+            "version": "8.2.0",
+            "Rule 1": 161,
+            "Rule 2": 71,
+            "Rule 3": 176,
+            "Rule 4": 861,
+            "Rule 5": 109
+        },
+        {
+            "created_at": "2025-01-08T03:07:28Z",
+            "version": "8.2.0",
+            "Rule 1": 79,
+            "Rule 2": 490,
+            "Rule 3": 44,
+            "Rule 4": 739,
+            "Rule 5": 766
+        },
+        {
+            "created_at": "2025-01-08T02:01:56Z",
+            "version": "8.2.0",
+            "Rule 1": 718,
+            "Rule 2": 106,
+            "Rule 3": 706,
+            "Rule 4": 55,
+            "Rule 5": 484
+        },
+        {
+            "created_at": "2025-01-08T17:07:31Z",
+            "version": "8.2.0",
+            "Rule 1": 241,
+            "Rule 2": 771,
+            "Rule 3": 101,
+            "Rule 4": 749,
+            "Rule 5": 116
+        },
+        {
+            "created_at": "2025-01-08T00:59:05Z",
+            "version": "8.2.0",
+            "Rule 1": 868,
+            "Rule 2": 171,
+            "Rule 3": 159,
+            "Rule 4": 4,
+            "Rule 5": 378
+        },
+        {
+            "created_at": "2025-01-08T10:30:33Z",
+            "version": "8.2.0",
+            "Rule 1": 118,
+            "Rule 2": 545,
+            "Rule 3": 859,
+            "Rule 4": 230,
+            "Rule 5": 94
+        },
+        {
+            "created_at": "2025-01-08T19:23:16Z",
+            "version": "8.2.0",
+            "Rule 1": 335,
+            "Rule 2": 391,
+            "Rule 3": 540,
+            "Rule 4": 105,
+            "Rule 5": 42
+        },
+        {
+            "created_at": "2025-01-08T13:07:06Z",
+            "version": "8.2.0",
+            "Rule 1": 668,
+            "Rule 2": 456,
+            "Rule 3": 185,
+            "Rule 4": 784,
+            "Rule 5": 894
+        },
+        {
+            "created_at": "2025-01-08T03:58:04Z",
+            "version": "8.2.0",
+            "Rule 1": 777,
+            "Rule 2": 455,
+            "Rule 3": 744,
+            "Rule 4": 505,
+            "Rule 5": 750
+        },
+        {
+            "created_at": "2025-01-08T23:12:29Z",
+            "version": "8.2.0",
+            "Rule 1": 585,
+            "Rule 2": 653,
+            "Rule 3": 560,
+            "Rule 4": 164,
+            "Rule 5": 887
+        },
+        {
+            "created_at": "2025-01-08T19:54:00Z",
+            "version": "8.2.0",
+            "Rule 1": 589,
+            "Rule 2": 459,
+            "Rule 3": 432,
+            "Rule 4": 451,
+            "Rule 5": 486
+        },
+        {
+            "created_at": "2025-01-08T10:11:55Z",
+            "version": "8.2.0",
+            "Rule 1": 867,
+            "Rule 2": 831,
+            "Rule 3": 977,
+            "Rule 4": 440,
+            "Rule 5": 373
+        },
+        {
+            "created_at": "2025-01-08T23:07:57Z",
+            "version": "8.2.0",
+            "Rule 1": 339,
+            "Rule 2": 277,
+            "Rule 3": 465,
+            "Rule 4": 269,
+            "Rule 5": 813
+        },
+        {
+            "created_at": "2025-01-08T20:53:13Z",
+            "version": "8.2.0",
+            "Rule 1": 566,
+            "Rule 2": 963,
+            "Rule 3": 413,
+            "Rule 4": 320,
+            "Rule 5": 579
+        },
+        {
+            "created_at": "2025-01-08T07:35:57Z",
+            "version": "8.2.0",
+            "Rule 1": 428,
+            "Rule 2": 427,
+            "Rule 3": 743,
+            "Rule 4": 765,
+            "Rule 5": 8
+        },
+        {
+            "created_at": "2025-01-08T06:47:27Z",
+            "version": "8.2.0",
+            "Rule 1": 343,
+            "Rule 2": 361,
+            "Rule 3": 339,
+            "Rule 4": 330,
+            "Rule 5": 711
+        },
+        {
+            "created_at": "2025-01-08T17:52:22Z",
+            "version": "8.2.0",
+            "Rule 1": 947,
+            "Rule 2": 320,
+            "Rule 3": 68,
+            "Rule 4": 805,
+            "Rule 5": 196
+        },
+        {
+            "created_at": "2025-01-08T11:33:31Z",
+            "version": "8.2.0",
+            "Rule 1": 364,
+            "Rule 2": 272,
+            "Rule 3": 67,
+            "Rule 4": 279,
+            "Rule 5": 117
+        },
+        {
+            "created_at": "2025-01-08T14:35:11Z",
+            "version": "8.2.0",
+            "Rule 1": 740,
+            "Rule 2": 752,
+            "Rule 3": 12,
+            "Rule 4": 711,
+            "Rule 5": 452
+        },
+        {
+            "created_at": "2025-01-08T12:37:29Z",
+            "version": "8.2.0",
+            "Rule 1": 949,
+            "Rule 2": 896,
+            "Rule 3": 886,
+            "Rule 4": 881,
+            "Rule 5": 254
+        },
+        {
+            "created_at": "2025-01-08T17:40:55Z",
+            "version": "8.2.0",
+            "Rule 1": 273,
+            "Rule 2": 457,
+            "Rule 3": 487,
+            "Rule 4": 112,
+            "Rule 5": 565
+        },
+        {
+            "created_at": "2025-01-08T20:15:47Z",
+            "version": "8.2.0",
+            "Rule 1": 140,
+            "Rule 2": 270,
+            "Rule 3": 914,
+            "Rule 4": 34,
+            "Rule 5": 911
+        },
+        {
+            "created_at": "2025-01-08T00:12:30Z",
+            "version": "8.2.0",
+            "Rule 1": 594,
+            "Rule 2": 58,
+            "Rule 3": 133,
+            "Rule 4": 470,
+            "Rule 5": 907
+        },
+        {
+            "created_at": "2025-01-08T06:32:22Z",
+            "version": "8.2.0",
+            "Rule 1": 136,
+            "Rule 2": 392,
+            "Rule 3": 233,
+            "Rule 4": 758,
+            "Rule 5": 181
+        },
+        {
+            "created_at": "2025-01-08T06:12:54Z",
+            "version": "8.2.0",
+            "Rule 1": 290,
+            "Rule 2": 808,
+            "Rule 3": 246,
+            "Rule 4": 954,
+            "Rule 5": 882
+        },
+        {
+            "created_at": "2025-01-08T22:21:12Z",
+            "version": "8.2.0",
+            "Rule 1": 806,
+            "Rule 2": 385,
+            "Rule 3": 862,
+            "Rule 4": 720,
+            "Rule 5": 187
+        },
+        {
+            "created_at": "2025-01-08T22:28:19Z",
+            "version": "8.2.0",
+            "Rule 1": 993,
+            "Rule 2": 539,
+            "Rule 3": 345,
+            "Rule 4": 79,
+            "Rule 5": 806
+        },
+        {
+            "created_at": "2025-01-08T21:31:16Z",
+            "version": "8.2.0",
+            "Rule 1": 283,
+            "Rule 2": 62,
+            "Rule 3": 807,
+            "Rule 4": 25,
+            "Rule 5": 952
+        },
+        {
+            "created_at": "2025-01-08T07:31:02Z",
+            "version": "8.2.0",
+            "Rule 1": 598,
+            "Rule 2": 826,
+            "Rule 3": 916,
+            "Rule 4": 319,
+            "Rule 5": 471
+        },
+        {
+            "created_at": "2025-01-08T18:05:04Z",
+            "version": "8.3.0",
+            "Rule 1": 30,
+            "Rule 2": 594,
+            "Rule 3": 233,
+            "Rule 4": 275,
+            "Rule 5": 172
+        },
+        {
+            "created_at": "2025-01-08T15:38:57Z",
+            "version": "8.3.0",
+            "Rule 1": 553,
+            "Rule 2": 367,
+            "Rule 3": 663,
+            "Rule 4": 50,
+            "Rule 5": 411
+        },
+        {
+            "created_at": "2025-01-08T10:37:35Z",
+            "version": "8.3.0",
+            "Rule 1": 200,
+            "Rule 2": 900,
+            "Rule 3": 805,
+            "Rule 4": 750,
+            "Rule 5": 365
+        },
+        {
+            "created_at": "2025-01-08T15:06:49Z",
+            "version": "8.3.0",
+            "Rule 1": 475,
+            "Rule 2": 109,
+            "Rule 3": 682,
+            "Rule 4": 696,
+            "Rule 5": 423
+        },
+        {
+            "created_at": "2025-01-08T15:40:07Z",
+            "version": "8.3.0",
+            "Rule 1": 862,
+            "Rule 2": 896,
+            "Rule 3": 185,
+            "Rule 4": 391,
+            "Rule 5": 109
+        },
+        {
+            "created_at": "2025-01-08T04:03:37Z",
+            "version": "8.3.0",
+            "Rule 1": 714,
+            "Rule 2": 102,
+            "Rule 3": 191,
+            "Rule 4": 316,
+            "Rule 5": 178
+        },
+        {
+            "created_at": "2025-01-08T04:40:21Z",
+            "version": "8.3.0",
+            "Rule 1": 791,
+            "Rule 2": 62,
+            "Rule 3": 126,
+            "Rule 4": 577,
+            "Rule 5": 362
+        },
+        {
+            "created_at": "2025-01-08T02:25:57Z",
+            "version": "8.3.0",
+            "Rule 1": 1,
+            "Rule 2": 289,
+            "Rule 3": 723,
+            "Rule 4": 197,
+            "Rule 5": 111
+        },
+        {
+            "created_at": "2025-01-08T10:32:31Z",
+            "version": "8.3.0",
+            "Rule 1": 37,
+            "Rule 2": 718,
+            "Rule 3": 83,
+            "Rule 4": 24,
+            "Rule 5": 624
+        },
+        {
+            "created_at": "2025-01-08T14:48:05Z",
+            "version": "8.3.0",
+            "Rule 1": 515,
+            "Rule 2": 299,
+            "Rule 3": 227,
+            "Rule 4": 663,
+            "Rule 5": 720
+        },
+        {
+            "created_at": "2025-01-08T00:55:18Z",
+            "version": "8.3.0",
+            "Rule 1": 533,
+            "Rule 2": 176,
+            "Rule 3": 64,
+            "Rule 4": 510,
+            "Rule 5": 733
+        },
+        {
+            "created_at": "2025-01-08T14:07:38Z",
+            "version": "8.3.0",
+            "Rule 1": 683,
+            "Rule 2": 259,
+            "Rule 3": 840,
+            "Rule 4": 732,
+            "Rule 5": 297
+        },
+        {
+            "created_at": "2025-01-08T22:56:08Z",
+            "version": "8.3.0",
+            "Rule 1": 595,
+            "Rule 2": 4,
+            "Rule 3": 851,
+            "Rule 4": 814,
+            "Rule 5": 835
+        },
+        {
+            "created_at": "2025-01-08T06:31:08Z",
+            "version": "8.3.0",
+            "Rule 1": 90,
+            "Rule 2": 74,
+            "Rule 3": 748,
+            "Rule 4": 828,
+            "Rule 5": 170
+        },
+        {
+            "created_at": "2025-01-08T06:49:45Z",
+            "version": "8.3.0",
+            "Rule 1": 485,
+            "Rule 2": 531,
+            "Rule 3": 870,
+            "Rule 4": 141,
+            "Rule 5": 502
+        },
+        {
+            "created_at": "2025-01-08T21:37:20Z",
+            "version": "8.3.0",
+            "Rule 1": 282,
+            "Rule 2": 293,
+            "Rule 3": 797,
+            "Rule 4": 173,
+            "Rule 5": 626
+        },
+        {
+            "created_at": "2025-01-08T00:15:32Z",
+            "version": "8.3.0",
+            "Rule 1": 650,
+            "Rule 2": 344,
+            "Rule 3": 696,
+            "Rule 4": 365,
+            "Rule 5": 917
+        },
+        {
+            "created_at": "2025-01-08T18:13:50Z",
+            "version": "8.3.0",
+            "Rule 1": 314,
+            "Rule 2": 79,
+            "Rule 3": 646,
+            "Rule 4": 977,
+            "Rule 5": 224
+        },
+        {
+            "created_at": "2025-01-08T22:19:10Z",
+            "version": "8.3.0",
+            "Rule 1": 974,
+            "Rule 2": 254,
+            "Rule 3": 813,
+            "Rule 4": 635,
+            "Rule 5": 703
+        },
+        {
+            "created_at": "2025-01-08T19:48:12Z",
+            "version": "8.3.0",
+            "Rule 1": 630,
+            "Rule 2": 399,
+            "Rule 3": 666,
+            "Rule 4": 494,
+            "Rule 5": 5
+        },
+        {
+            "created_at": "2025-01-08T08:53:52Z",
+            "version": "8.3.0",
+            "Rule 1": 426,
+            "Rule 2": 600,
+            "Rule 3": 369,
+            "Rule 4": 224,
+            "Rule 5": 450
+        },
+        {
+            "created_at": "2025-01-08T17:08:33Z",
+            "version": "8.3.0",
+            "Rule 1": 342,
+            "Rule 2": 375,
+            "Rule 3": 807,
+            "Rule 4": 725,
+            "Rule 5": 837
+        },
+        {
+            "created_at": "2025-01-08T12:41:57Z",
+            "version": "8.3.0",
+            "Rule 1": 152,
+            "Rule 2": 884,
+            "Rule 3": 9,
+            "Rule 4": 597,
+            "Rule 5": 132
+        },
+        {
+            "created_at": "2025-01-08T14:16:43Z",
+            "version": "8.3.0",
+            "Rule 1": 307,
+            "Rule 2": 581,
+            "Rule 3": 206,
+            "Rule 4": 108,
+            "Rule 5": 481
+        },
+        {
+            "created_at": "2025-01-08T12:11:36Z",
+            "version": "8.3.0",
+            "Rule 1": 756,
+            "Rule 2": 348,
+            "Rule 3": 124,
+            "Rule 4": 953,
+            "Rule 5": 249
+        },
+        {
+            "created_at": "2025-01-08T15:28:41Z",
+            "version": "8.3.0",
+            "Rule 1": 517,
+            "Rule 2": 365,
+            "Rule 3": 604,
+            "Rule 4": 292,
+            "Rule 5": 192
+        },
+        {
+            "created_at": "2025-01-08T10:13:11Z",
+            "version": "8.3.0",
+            "Rule 1": 855,
+            "Rule 2": 706,
+            "Rule 3": 102,
+            "Rule 4": 449,
+            "Rule 5": 619
+        },
+        {
+            "created_at": "2025-01-08T22:59:11Z",
+            "version": "8.3.0",
+            "Rule 1": 375,
+            "Rule 2": 66,
+            "Rule 3": 763,
+            "Rule 4": 171,
+            "Rule 5": 268
+        },
+        {
+            "created_at": "2025-01-08T13:38:05Z",
+            "version": "8.3.0",
+            "Rule 1": 668,
+            "Rule 2": 578,
+            "Rule 3": 622,
+            "Rule 4": 864,
+            "Rule 5": 796
+        },
+        {
+            "created_at": "2025-01-08T14:26:34Z",
+            "version": "8.3.0",
+            "Rule 1": 360,
+            "Rule 2": 436,
+            "Rule 3": 104,
+            "Rule 4": 665,
+            "Rule 5": 389
+        },
+        {
+            "created_at": "2025-01-08T04:21:21Z",
+            "version": "8.3.0",
+            "Rule 1": 398,
+            "Rule 2": 174,
+            "Rule 3": 1000,
+            "Rule 4": 592,
+            "Rule 5": 76
+        },
+        {
+            "created_at": "2025-01-08T03:28:32Z",
+            "version": "8.3.0",
+            "Rule 1": 930,
+            "Rule 2": 767,
+            "Rule 3": 642,
+            "Rule 4": 322,
+            "Rule 5": 714
+        },
+        {
+            "created_at": "2025-01-08T18:11:24Z",
+            "version": "8.3.0",
+            "Rule 1": 623,
+            "Rule 2": 942,
+            "Rule 3": 865,
+            "Rule 4": 844,
+            "Rule 5": 719
+        },
+        {
+            "created_at": "2025-01-08T22:58:55Z",
+            "version": "8.3.0",
+            "Rule 1": 66,
+            "Rule 2": 65,
+            "Rule 3": 331,
+            "Rule 4": 955,
+            "Rule 5": 702
+        },
+        {
+            "created_at": "2025-01-08T23:30:22Z",
+            "version": "8.3.0",
+            "Rule 1": 375,
+            "Rule 2": 99,
+            "Rule 3": 446,
+            "Rule 4": 750,
+            "Rule 5": 614
+        },
+        {
+            "created_at": "2025-01-08T02:26:50Z",
+            "version": "8.3.0",
+            "Rule 1": 25,
+            "Rule 2": 1000,
+            "Rule 3": 329,
+            "Rule 4": 917,
+            "Rule 5": 90
+        },
+        {
+            "created_at": "2025-01-08T04:07:32Z",
+            "version": "8.3.0",
+            "Rule 1": 554,
+            "Rule 2": 356,
+            "Rule 3": 672,
+            "Rule 4": 95,
+            "Rule 5": 169
+        },
+        {
+            "created_at": "2025-01-08T21:49:21Z",
+            "version": "8.3.0",
+            "Rule 1": 980,
+            "Rule 2": 443,
+            "Rule 3": 964,
+            "Rule 4": 812,
+            "Rule 5": 377
+        },
+        {
+            "created_at": "2025-01-08T07:01:45Z",
+            "version": "8.3.0",
+            "Rule 1": 784,
+            "Rule 2": 123,
+            "Rule 3": 303,
+            "Rule 4": 988,
+            "Rule 5": 47
+        },
+        {
+            "created_at": "2025-01-08T02:48:12Z",
+            "version": "8.3.0",
+            "Rule 1": 727,
+            "Rule 2": 586,
+            "Rule 3": 290,
+            "Rule 4": 429,
+            "Rule 5": 666
+        },
+        {
+            "created_at": "2025-01-08T05:43:59Z",
+            "version": "8.3.0",
+            "Rule 1": 967,
+            "Rule 2": 327,
+            "Rule 3": 167,
+            "Rule 4": 457,
+            "Rule 5": 352
+        },
+        {
+            "created_at": "2025-01-08T16:20:19Z",
+            "version": "8.3.0",
+            "Rule 1": 544,
+            "Rule 2": 876,
+            "Rule 3": 507,
+            "Rule 4": 680,
+            "Rule 5": 294
+        },
+        {
+            "created_at": "2025-01-08T00:45:07Z",
+            "version": "8.3.0",
+            "Rule 1": 416,
+            "Rule 2": 1,
+            "Rule 3": 449,
+            "Rule 4": 874,
+            "Rule 5": 149
+        },
+        {
+            "created_at": "2025-01-08T06:18:02Z",
+            "version": "8.3.0",
+            "Rule 1": 690,
+            "Rule 2": 448,
+            "Rule 3": 532,
+            "Rule 4": 612,
+            "Rule 5": 865
+        },
+        {
+            "created_at": "2025-01-08T19:52:31Z",
+            "version": "8.3.0",
+            "Rule 1": 530,
+            "Rule 2": 549,
+            "Rule 3": 671,
+            "Rule 4": 795,
+            "Rule 5": 113
+        },
+        {
+            "created_at": "2025-01-08T22:40:10Z",
+            "version": "8.3.0",
+            "Rule 1": 421,
+            "Rule 2": 714,
+            "Rule 3": 227,
+            "Rule 4": 272,
+            "Rule 5": 412
+        },
+        {
+            "created_at": "2025-01-08T10:41:16Z",
+            "version": "8.3.0",
+            "Rule 1": 129,
+            "Rule 2": 950,
+            "Rule 3": 855,
+            "Rule 4": 934,
+            "Rule 5": 169
+        },
+        {
+            "created_at": "2025-01-08T21:08:05Z",
+            "version": "8.3.0",
+            "Rule 1": 348,
+            "Rule 2": 310,
+            "Rule 3": 369,
+            "Rule 4": 368,
+            "Rule 5": 666
+        },
+        {
+            "created_at": "2025-01-08T20:46:47Z",
+            "version": "8.3.0",
+            "Rule 1": 349,
+            "Rule 2": 420,
+            "Rule 3": 539,
+            "Rule 4": 272,
+            "Rule 5": 793
+        },
+        {
+            "created_at": "2025-01-08T14:36:47Z",
+            "version": "8.3.0",
+            "Rule 1": 262,
+            "Rule 2": 592,
+            "Rule 3": 631,
+            "Rule 4": 888,
+            "Rule 5": 681
+        },
+        {
+            "created_at": "2025-01-08T20:37:30Z",
+            "version": "8.3.0",
+            "Rule 1": 660,
+            "Rule 2": 38,
+            "Rule 3": 636,
+            "Rule 4": 817,
+            "Rule 5": 245
+        },
+        {
+            "created_at": "2025-01-08T06:04:52Z",
+            "version": "8.3.0",
+            "Rule 1": 992,
+            "Rule 2": 427,
+            "Rule 3": 104,
+            "Rule 4": 493,
+            "Rule 5": 920
+        },
+        {
+            "created_at": "2025-01-08T09:47:09Z",
+            "version": "8.3.0",
+            "Rule 1": 281,
+            "Rule 2": 116,
+            "Rule 3": 127,
+            "Rule 4": 619,
+            "Rule 5": 258
+        },
+        {
+            "created_at": "2025-01-08T17:39:51Z",
+            "version": "8.3.0",
+            "Rule 1": 792,
+            "Rule 2": 249,
+            "Rule 3": 145,
+            "Rule 4": 483,
+            "Rule 5": 418
+        },
+        {
+            "created_at": "2025-01-08T22:58:10Z",
+            "version": "8.3.0",
+            "Rule 1": 544,
+            "Rule 2": 521,
+            "Rule 3": 7,
+            "Rule 4": 770,
+            "Rule 5": 754
+        },
+        {
+            "created_at": "2025-01-08T07:14:46Z",
+            "version": "8.3.0",
+            "Rule 1": 34,
+            "Rule 2": 985,
+            "Rule 3": 874,
+            "Rule 4": 754,
+            "Rule 5": 281
+        },
+        {
+            "created_at": "2025-01-08T00:15:58Z",
+            "version": "8.3.0",
+            "Rule 1": 26,
+            "Rule 2": 96,
+            "Rule 3": 204,
+            "Rule 4": 832,
+            "Rule 5": 961
+        },
+        {
+            "created_at": "2025-01-08T13:34:25Z",
+            "version": "8.3.0",
+            "Rule 1": 194,
+            "Rule 2": 105,
+            "Rule 3": 46,
+            "Rule 4": 286,
+            "Rule 5": 416
+        },
+        {
+            "created_at": "2025-01-08T19:38:33Z",
+            "version": "8.3.0",
+            "Rule 1": 475,
+            "Rule 2": 850,
+            "Rule 3": 59,
+            "Rule 4": 770,
+            "Rule 5": 865
+        },
+        {
+            "created_at": "2025-01-08T14:51:33Z",
+            "version": "8.3.0",
+            "Rule 1": 482,
+            "Rule 2": 140,
+            "Rule 3": 246,
+            "Rule 4": 896,
+            "Rule 5": 251
+        },
+        {
+            "created_at": "2025-01-08T14:26:09Z",
+            "version": "8.3.0",
+            "Rule 1": 269,
+            "Rule 2": 859,
+            "Rule 3": 633,
+            "Rule 4": 157,
+            "Rule 5": 959
+        },
+        {
+            "created_at": "2025-01-08T13:10:20Z",
+            "version": "8.3.0",
+            "Rule 1": 211,
+            "Rule 2": 987,
+            "Rule 3": 903,
+            "Rule 4": 982,
+            "Rule 5": 134
+        },
+        {
+            "created_at": "2025-01-08T06:25:16Z",
+            "version": "8.3.0",
+            "Rule 1": 114,
+            "Rule 2": 744,
+            "Rule 3": 935,
+            "Rule 4": 42,
+            "Rule 5": 1
+        },
+        {
+            "created_at": "2025-01-08T20:56:38Z",
+            "version": "8.3.0",
+            "Rule 1": 206,
+            "Rule 2": 922,
+            "Rule 3": 40,
+            "Rule 4": 96,
+            "Rule 5": 120
+        },
+        {
+            "created_at": "2025-01-08T16:54:02Z",
+            "version": "8.3.0",
+            "Rule 1": 351,
+            "Rule 2": 933,
+            "Rule 3": 96,
+            "Rule 4": 304,
+            "Rule 5": 628
+        },
+        {
+            "created_at": "2025-01-08T01:09:55Z",
+            "version": "8.3.0",
+            "Rule 1": 268,
+            "Rule 2": 16,
+            "Rule 3": 638,
+            "Rule 4": 85,
+            "Rule 5": 876
+        },
+        {
+            "created_at": "2025-01-08T04:35:29Z",
+            "version": "8.3.0",
+            "Rule 1": 44,
+            "Rule 2": 371,
+            "Rule 3": 996,
+            "Rule 4": 199,
+            "Rule 5": 86
+        },
+        {
+            "created_at": "2025-01-08T17:28:40Z",
+            "version": "8.3.0",
+            "Rule 1": 572,
+            "Rule 2": 389,
+            "Rule 3": 623,
+            "Rule 4": 387,
+            "Rule 5": 728
+        },
+        {
+            "created_at": "2025-01-08T16:17:23Z",
+            "version": "8.3.0",
+            "Rule 1": 229,
+            "Rule 2": 205,
+            "Rule 3": 259,
+            "Rule 4": 845,
+            "Rule 5": 991
+        },
+        {
+            "created_at": "2025-01-08T19:02:29Z",
+            "version": "8.3.0",
+            "Rule 1": 476,
+            "Rule 2": 542,
+            "Rule 3": 438,
+            "Rule 4": 360,
+            "Rule 5": 400
+        },
+        {
+            "created_at": "2025-01-08T21:00:39Z",
+            "version": "8.3.0",
+            "Rule 1": 526,
+            "Rule 2": 790,
+            "Rule 3": 263,
+            "Rule 4": 348,
+            "Rule 5": 138
+        },
+        {
+            "created_at": "2025-01-08T11:27:08Z",
+            "version": "8.3.0",
+            "Rule 1": 254,
+            "Rule 2": 976,
+            "Rule 3": 113,
+            "Rule 4": 458,
+            "Rule 5": 552
+        },
+        {
+            "created_at": "2025-01-08T13:57:41Z",
+            "version": "8.3.0",
+            "Rule 1": 900,
+            "Rule 2": 239,
+            "Rule 3": 203,
+            "Rule 4": 278,
+            "Rule 5": 397
+        },
+        {
+            "created_at": "2025-01-08T06:49:32Z",
+            "version": "8.3.0",
+            "Rule 1": 767,
+            "Rule 2": 552,
+            "Rule 3": 937,
+            "Rule 4": 311,
+            "Rule 5": 708
+        },
+        {
+            "created_at": "2025-01-08T07:05:18Z",
+            "version": "8.3.0",
+            "Rule 1": 761,
+            "Rule 2": 574,
+            "Rule 3": 520,
+            "Rule 4": 325,
+            "Rule 5": 870
+        },
+        {
+            "created_at": "2025-01-08T18:55:42Z",
+            "version": "8.3.0",
+            "Rule 1": 625,
+            "Rule 2": 309,
+            "Rule 3": 948,
+            "Rule 4": 60,
+            "Rule 5": 668
+        },
+        {
+            "created_at": "2025-01-08T10:01:28Z",
+            "version": "8.3.0",
+            "Rule 1": 557,
+            "Rule 2": 381,
+            "Rule 3": 272,
+            "Rule 4": 508,
+            "Rule 5": 807
+        },
+        {
+            "created_at": "2025-01-08T06:16:17Z",
+            "version": "8.3.0",
+            "Rule 1": 566,
+            "Rule 2": 682,
+            "Rule 3": 382,
+            "Rule 4": 159,
+            "Rule 5": 290
+        },
+        {
+            "created_at": "2025-01-08T13:15:37Z",
+            "version": "8.3.0",
+            "Rule 1": 865,
+            "Rule 2": 81,
+            "Rule 3": 751,
+            "Rule 4": 929,
+            "Rule 5": 204
+        },
+        {
+            "created_at": "2025-01-08T18:48:06Z",
+            "version": "8.3.0",
+            "Rule 1": 692,
+            "Rule 2": 620,
+            "Rule 3": 509,
+            "Rule 4": 220,
+            "Rule 5": 761
+        },
+        {
+            "created_at": "2025-01-08T19:44:58Z",
+            "version": "8.3.0",
+            "Rule 1": 783,
+            "Rule 2": 804,
+            "Rule 3": 573,
+            "Rule 4": 415,
+            "Rule 5": 720
+        },
+        {
+            "created_at": "2025-01-08T12:56:15Z",
+            "version": "8.3.0",
+            "Rule 1": 26,
+            "Rule 2": 664,
+            "Rule 3": 940,
+            "Rule 4": 861,
+            "Rule 5": 984
+        },
+        {
+            "created_at": "2025-01-08T12:55:29Z",
+            "version": "8.3.0",
+            "Rule 1": 432,
+            "Rule 2": 521,
+            "Rule 3": 788,
+            "Rule 4": 485,
+            "Rule 5": 576
+        },
+        {
+            "created_at": "2025-01-08T00:42:17Z",
+            "version": "8.3.0",
+            "Rule 1": 658,
+            "Rule 2": 498,
+            "Rule 3": 461,
+            "Rule 4": 558,
+            "Rule 5": 719
+        },
+        {
+            "created_at": "2025-01-08T14:57:14Z",
+            "version": "8.3.0",
+            "Rule 1": 258,
+            "Rule 2": 859,
+            "Rule 3": 659,
+            "Rule 4": 163,
+            "Rule 5": 965
+        },
+        {
+            "created_at": "2025-01-08T12:55:03Z",
+            "version": "8.3.0",
+            "Rule 1": 632,
+            "Rule 2": 322,
+            "Rule 3": 755,
+            "Rule 4": 624,
+            "Rule 5": 669
+        },
+        {
+            "created_at": "2025-01-08T01:03:42Z",
+            "version": "8.3.0",
+            "Rule 1": 245,
+            "Rule 2": 619,
+            "Rule 3": 924,
+            "Rule 4": 356,
+            "Rule 5": 312
+        },
+        {
+            "created_at": "2025-01-08T00:39:38Z",
+            "version": "8.3.0",
+            "Rule 1": 1000,
+            "Rule 2": 983,
+            "Rule 3": 76,
+            "Rule 4": 752,
+            "Rule 5": 420
+        },
+        {
+            "created_at": "2025-01-08T03:14:51Z",
+            "version": "8.3.0",
+            "Rule 1": 633,
+            "Rule 2": 663,
+            "Rule 3": 407,
+            "Rule 4": 599,
+            "Rule 5": 488
+        },
+        {
+            "created_at": "2025-01-08T04:29:03Z",
+            "version": "8.3.0",
+            "Rule 1": 712,
+            "Rule 2": 929,
+            "Rule 3": 749,
+            "Rule 4": 471,
+            "Rule 5": 609
+        },
+        {
+            "created_at": "2025-01-08T10:04:41Z",
+            "version": "8.3.0",
+            "Rule 1": 833,
+            "Rule 2": 104,
+            "Rule 3": 727,
+            "Rule 4": 940,
+            "Rule 5": 753
+        },
+        {
+            "created_at": "2025-01-08T22:25:02Z",
+            "version": "8.3.0",
+            "Rule 1": 490,
+            "Rule 2": 413,
+            "Rule 3": 138,
+            "Rule 4": 989,
+            "Rule 5": 807
+        },
+        {
+            "created_at": "2025-01-08T06:35:53Z",
+            "version": "8.3.0",
+            "Rule 1": 260,
+            "Rule 2": 127,
+            "Rule 3": 250,
+            "Rule 4": 939,
+            "Rule 5": 253
+        },
+        {
+            "created_at": "2025-01-08T15:30:56Z",
+            "version": "8.3.0",
+            "Rule 1": 783,
+            "Rule 2": 542,
+            "Rule 3": 270,
+            "Rule 4": 647,
+            "Rule 5": 964
+        },
+        {
+            "created_at": "2025-01-08T07:49:19Z",
+            "version": "8.3.0",
+            "Rule 1": 127,
+            "Rule 2": 319,
+            "Rule 3": 523,
+            "Rule 4": 326,
+            "Rule 5": 295
+        },
+        {
+            "created_at": "2025-01-08T23:59:16Z",
+            "version": "8.3.0",
+            "Rule 1": 514,
+            "Rule 2": 534,
+            "Rule 3": 516,
+            "Rule 4": 908,
+            "Rule 5": 242
+        },
+        {
+            "created_at": "2025-01-08T04:50:30Z",
+            "version": "8.3.0",
+            "Rule 1": 377,
+            "Rule 2": 798,
+            "Rule 3": 525,
+            "Rule 4": 440,
+            "Rule 5": 524
+        },
+        {
+            "created_at": "2025-01-08T08:22:24Z",
+            "version": "8.3.0",
+            "Rule 1": 792,
+            "Rule 2": 648,
+            "Rule 3": 931,
+            "Rule 4": 227,
+            "Rule 5": 459
+        },
+        {
+            "created_at": "2025-01-08T17:25:29Z",
+            "version": "8.3.0",
+            "Rule 1": 37,
+            "Rule 2": 805,
+            "Rule 3": 178,
+            "Rule 4": 147,
+            "Rule 5": 386
+        },
+        {
+            "created_at": "2025-01-08T14:58:02Z",
+            "version": "8.3.0",
+            "Rule 1": 904,
+            "Rule 2": 903,
+            "Rule 3": 77,
+            "Rule 4": 610,
+            "Rule 5": 940
+        },
+        {
+            "created_at": "2025-01-08T18:12:51Z",
+            "version": "8.4.0",
+            "Rule 1": 520,
+            "Rule 2": 950,
+            "Rule 3": 637,
+            "Rule 4": 228,
+            "Rule 5": 947
+        },
+        {
+            "created_at": "2025-01-08T07:41:00Z",
+            "version": "8.4.0",
+            "Rule 1": 690,
+            "Rule 2": 33,
+            "Rule 3": 777,
+            "Rule 4": 688,
+            "Rule 5": 340
+        },
+        {
+            "created_at": "2025-01-08T09:39:13Z",
+            "version": "8.4.0",
+            "Rule 1": 672,
+            "Rule 2": 95,
+            "Rule 3": 983,
+            "Rule 4": 517,
+            "Rule 5": 289
+        },
+        {
+            "created_at": "2025-01-08T01:22:10Z",
+            "version": "8.4.0",
+            "Rule 1": 882,
+            "Rule 2": 725,
+            "Rule 3": 170,
+            "Rule 4": 817,
+            "Rule 5": 299
+        },
+        {
+            "created_at": "2025-01-08T09:57:35Z",
+            "version": "8.4.0",
+            "Rule 1": 10,
+            "Rule 2": 744,
+            "Rule 3": 336,
+            "Rule 4": 702,
+            "Rule 5": 521
+        },
+        {
+            "created_at": "2025-01-08T00:03:58Z",
+            "version": "8.4.0",
+            "Rule 1": 28,
+            "Rule 2": 178,
+            "Rule 3": 814,
+            "Rule 4": 334,
+            "Rule 5": 339
+        },
+        {
+            "created_at": "2025-01-08T12:39:08Z",
+            "version": "8.4.0",
+            "Rule 1": 775,
+            "Rule 2": 384,
+            "Rule 3": 40,
+            "Rule 4": 663,
+            "Rule 5": 67
+        },
+        {
+            "created_at": "2025-01-08T04:17:12Z",
+            "version": "8.4.0",
+            "Rule 1": 533,
+            "Rule 2": 594,
+            "Rule 3": 604,
+            "Rule 4": 209,
+            "Rule 5": 169
+        },
+        {
+            "created_at": "2025-01-08T05:29:52Z",
+            "version": "8.4.0",
+            "Rule 1": 29,
+            "Rule 2": 554,
+            "Rule 3": 460,
+            "Rule 4": 143,
+            "Rule 5": 573
+        },
+        {
+            "created_at": "2025-01-08T22:58:43Z",
+            "version": "8.4.0",
+            "Rule 1": 491,
+            "Rule 2": 996,
+            "Rule 3": 740,
+            "Rule 4": 705,
+            "Rule 5": 788
+        },
+        {
+            "created_at": "2025-01-08T06:55:03Z",
+            "version": "8.4.0",
+            "Rule 1": 672,
+            "Rule 2": 668,
+            "Rule 3": 502,
+            "Rule 4": 123,
+            "Rule 5": 990
+        },
+        {
+            "created_at": "2025-01-08T16:23:32Z",
+            "version": "8.4.0",
+            "Rule 1": 461,
+            "Rule 2": 303,
+            "Rule 3": 631,
+            "Rule 4": 563,
+            "Rule 5": 572
+        },
+        {
+            "created_at": "2025-01-08T10:12:04Z",
+            "version": "8.4.0",
+            "Rule 1": 548,
+            "Rule 2": 929,
+            "Rule 3": 411,
+            "Rule 4": 935,
+            "Rule 5": 969
+        },
+        {
+            "created_at": "2025-01-08T07:54:07Z",
+            "version": "8.4.0",
+            "Rule 1": 631,
+            "Rule 2": 327,
+            "Rule 3": 516,
+            "Rule 4": 380,
+            "Rule 5": 648
+        },
+        {
+            "created_at": "2025-01-08T14:36:33Z",
+            "version": "8.4.0",
+            "Rule 1": 925,
+            "Rule 2": 708,
+            "Rule 3": 100,
+            "Rule 4": 882,
+            "Rule 5": 927
+        },
+        {
+            "created_at": "2025-01-08T23:53:56Z",
+            "version": "8.4.0",
+            "Rule 1": 246,
+            "Rule 2": 525,
+            "Rule 3": 905,
+            "Rule 4": 370,
+            "Rule 5": 599
+        },
+        {
+            "created_at": "2025-01-08T11:13:52Z",
+            "version": "8.4.0",
+            "Rule 1": 218,
+            "Rule 2": 3,
+            "Rule 3": 229,
+            "Rule 4": 376,
+            "Rule 5": 353
+        },
+        {
+            "created_at": "2025-01-08T17:35:15Z",
+            "version": "8.4.0",
+            "Rule 1": 77,
+            "Rule 2": 383,
+            "Rule 3": 423,
+            "Rule 4": 935,
+            "Rule 5": 724
+        },
+        {
+            "created_at": "2025-01-08T15:20:53Z",
+            "version": "8.4.0",
+            "Rule 1": 420,
+            "Rule 2": 259,
+            "Rule 3": 564,
+            "Rule 4": 719,
+            "Rule 5": 616
+        },
+        {
+            "created_at": "2025-01-08T04:56:43Z",
+            "version": "8.4.0",
+            "Rule 1": 543,
+            "Rule 2": 198,
+            "Rule 3": 339,
+            "Rule 4": 475,
+            "Rule 5": 210
+        },
+        {
+            "created_at": "2025-01-08T02:12:33Z",
+            "version": "8.4.0",
+            "Rule 1": 423,
+            "Rule 2": 877,
+            "Rule 3": 676,
+            "Rule 4": 344,
+            "Rule 5": 640
+        },
+        {
+            "created_at": "2025-01-08T00:09:38Z",
+            "version": "8.4.0",
+            "Rule 1": 186,
+            "Rule 2": 999,
+            "Rule 3": 391,
+            "Rule 4": 830,
+            "Rule 5": 90
+        },
+        {
+            "created_at": "2025-01-08T08:00:33Z",
+            "version": "8.4.0",
+            "Rule 1": 992,
+            "Rule 2": 153,
+            "Rule 3": 220,
+            "Rule 4": 716,
+            "Rule 5": 304
+        },
+        {
+            "created_at": "2025-01-08T14:13:26Z",
+            "version": "8.4.0",
+            "Rule 1": 373,
+            "Rule 2": 15,
+            "Rule 3": 353,
+            "Rule 4": 784,
+            "Rule 5": 97
+        },
+        {
+            "created_at": "2025-01-08T11:19:26Z",
+            "version": "8.4.0",
+            "Rule 1": 75,
+            "Rule 2": 111,
+            "Rule 3": 783,
+            "Rule 4": 689,
+            "Rule 5": 454
+        },
+        {
+            "created_at": "2025-01-08T05:06:23Z",
+            "version": "8.4.0",
+            "Rule 1": 728,
+            "Rule 2": 838,
+            "Rule 3": 156,
+            "Rule 4": 476,
+            "Rule 5": 302
+        },
+        {
+            "created_at": "2025-01-08T15:17:29Z",
+            "version": "8.4.0",
+            "Rule 1": 925,
+            "Rule 2": 765,
+            "Rule 3": 23,
+            "Rule 4": 979,
+            "Rule 5": 839
+        },
+        {
+            "created_at": "2025-01-08T08:11:17Z",
+            "version": "8.4.0",
+            "Rule 1": 718,
+            "Rule 2": 397,
+            "Rule 3": 982,
+            "Rule 4": 302,
+            "Rule 5": 628
+        },
+        {
+            "created_at": "2025-01-08T14:01:24Z",
+            "version": "8.4.0",
+            "Rule 1": 522,
+            "Rule 2": 689,
+            "Rule 3": 933,
+            "Rule 4": 629,
+            "Rule 5": 941
+        },
+        {
+            "created_at": "2025-01-08T09:55:27Z",
+            "version": "8.4.0",
+            "Rule 1": 775,
+            "Rule 2": 684,
+            "Rule 3": 514,
+            "Rule 4": 256,
+            "Rule 5": 681
+        },
+        {
+            "created_at": "2025-01-08T18:24:11Z",
+            "version": "8.4.0",
+            "Rule 1": 556,
+            "Rule 2": 73,
+            "Rule 3": 424,
+            "Rule 4": 719,
+            "Rule 5": 793
+        },
+        {
+            "created_at": "2025-01-08T12:06:45Z",
+            "version": "8.4.0",
+            "Rule 1": 22,
+            "Rule 2": 615,
+            "Rule 3": 978,
+            "Rule 4": 623,
+            "Rule 5": 783
+        },
+        {
+            "created_at": "2025-01-08T09:16:30Z",
+            "version": "8.4.0",
+            "Rule 1": 208,
+            "Rule 2": 507,
+            "Rule 3": 725,
+            "Rule 4": 986,
+            "Rule 5": 345
+        },
+        {
+            "created_at": "2025-01-08T10:51:38Z",
+            "version": "8.4.0",
+            "Rule 1": 886,
+            "Rule 2": 569,
+            "Rule 3": 763,
+            "Rule 4": 845,
+            "Rule 5": 16
+        },
+        {
+            "created_at": "2025-01-08T06:56:35Z",
+            "version": "8.4.0",
+            "Rule 1": 160,
+            "Rule 2": 579,
+            "Rule 3": 278,
+            "Rule 4": 664,
+            "Rule 5": 831
+        },
+        {
+            "created_at": "2025-01-08T22:29:47Z",
+            "version": "8.4.0",
+            "Rule 1": 958,
+            "Rule 2": 732,
+            "Rule 3": 965,
+            "Rule 4": 896,
+            "Rule 5": 818
+        },
+        {
+            "created_at": "2025-01-08T04:17:22Z",
+            "version": "8.4.0",
+            "Rule 1": 862,
+            "Rule 2": 109,
+            "Rule 3": 218,
+            "Rule 4": 709,
+            "Rule 5": 341
+        },
+        {
+            "created_at": "2025-01-08T21:36:26Z",
+            "version": "8.4.0",
+            "Rule 1": 858,
+            "Rule 2": 634,
+            "Rule 3": 707,
+            "Rule 4": 647,
+            "Rule 5": 270
+        },
+        {
+            "created_at": "2025-01-08T21:55:51Z",
+            "version": "8.4.0",
+            "Rule 1": 959,
+            "Rule 2": 243,
+            "Rule 3": 207,
+            "Rule 4": 247,
+            "Rule 5": 25
+        },
+        {
+            "created_at": "2025-01-08T15:50:33Z",
+            "version": "8.4.0",
+            "Rule 1": 287,
+            "Rule 2": 188,
+            "Rule 3": 765,
+            "Rule 4": 264,
+            "Rule 5": 412
+        },
+        {
+            "created_at": "2025-01-08T08:15:11Z",
+            "version": "8.4.0",
+            "Rule 1": 362,
+            "Rule 2": 653,
+            "Rule 3": 850,
+            "Rule 4": 373,
+            "Rule 5": 178
+        },
+        {
+            "created_at": "2025-01-08T00:02:52Z",
+            "version": "8.4.0",
+            "Rule 1": 195,
+            "Rule 2": 91,
+            "Rule 3": 560,
+            "Rule 4": 259,
+            "Rule 5": 155
+        },
+        {
+            "created_at": "2025-01-08T09:23:23Z",
+            "version": "8.4.0",
+            "Rule 1": 813,
+            "Rule 2": 602,
+            "Rule 3": 36,
+            "Rule 4": 619,
+            "Rule 5": 614
+        },
+        {
+            "created_at": "2025-01-08T20:23:07Z",
+            "version": "8.4.0",
+            "Rule 1": 53,
+            "Rule 2": 401,
+            "Rule 3": 944,
+            "Rule 4": 605,
+            "Rule 5": 328
+        },
+        {
+            "created_at": "2025-01-08T06:42:17Z",
+            "version": "8.4.0",
+            "Rule 1": 727,
+            "Rule 2": 131,
+            "Rule 3": 815,
+            "Rule 4": 510,
+            "Rule 5": 150
+        },
+        {
+            "created_at": "2025-01-08T08:55:00Z",
+            "version": "8.4.0",
+            "Rule 1": 671,
+            "Rule 2": 251,
+            "Rule 3": 81,
+            "Rule 4": 692,
+            "Rule 5": 71
+        },
+        {
+            "created_at": "2025-01-08T18:53:05Z",
+            "version": "8.4.0",
+            "Rule 1": 889,
+            "Rule 2": 326,
+            "Rule 3": 696,
+            "Rule 4": 262,
+            "Rule 5": 81
+        },
+        {
+            "created_at": "2025-01-08T07:14:36Z",
+            "version": "8.4.0",
+            "Rule 1": 898,
+            "Rule 2": 579,
+            "Rule 3": 368,
+            "Rule 4": 874,
+            "Rule 5": 860
+        },
+        {
+            "created_at": "2025-01-08T19:04:07Z",
+            "version": "8.4.0",
+            "Rule 1": 83,
+            "Rule 2": 419,
+            "Rule 3": 424,
+            "Rule 4": 176,
+            "Rule 5": 677
+        },
+        {
+            "created_at": "2025-01-08T00:50:07Z",
+            "version": "8.4.0",
+            "Rule 1": 196,
+            "Rule 2": 754,
+            "Rule 3": 425,
+            "Rule 4": 903,
+            "Rule 5": 877
+        },
+        {
+            "created_at": "2025-01-08T05:03:44Z",
+            "version": "8.4.0",
+            "Rule 1": 821,
+            "Rule 2": 365,
+            "Rule 3": 89,
+            "Rule 4": 743,
+            "Rule 5": 435
+        },
+        {
+            "created_at": "2025-01-08T01:10:36Z",
+            "version": "8.4.0",
+            "Rule 1": 821,
+            "Rule 2": 238,
+            "Rule 3": 835,
+            "Rule 4": 408,
+            "Rule 5": 675
+        },
+        {
+            "created_at": "2025-01-08T21:28:29Z",
+            "version": "8.4.0",
+            "Rule 1": 624,
+            "Rule 2": 589,
+            "Rule 3": 727,
+            "Rule 4": 746,
+            "Rule 5": 470
+        },
+        {
+            "created_at": "2025-01-08T02:02:44Z",
+            "version": "8.4.0",
+            "Rule 1": 228,
+            "Rule 2": 413,
+            "Rule 3": 274,
+            "Rule 4": 321,
+            "Rule 5": 553
+        },
+        {
+            "created_at": "2025-01-08T08:01:15Z",
+            "version": "8.4.0",
+            "Rule 1": 62,
+            "Rule 2": 885,
+            "Rule 3": 948,
+            "Rule 4": 88,
+            "Rule 5": 471
+        },
+        {
+            "created_at": "2025-01-08T04:02:45Z",
+            "version": "8.4.0",
+            "Rule 1": 719,
+            "Rule 2": 654,
+            "Rule 3": 511,
+            "Rule 4": 831,
+            "Rule 5": 501
+        },
+        {
+            "created_at": "2025-01-08T03:46:42Z",
+            "version": "8.4.0",
+            "Rule 1": 968,
+            "Rule 2": 887,
+            "Rule 3": 741,
+            "Rule 4": 45,
+            "Rule 5": 409
+        },
+        {
+            "created_at": "2025-01-08T16:58:06Z",
+            "version": "8.4.0",
+            "Rule 1": 733,
+            "Rule 2": 294,
+            "Rule 3": 478,
+            "Rule 4": 164,
+            "Rule 5": 217
+        },
+        {
+            "created_at": "2025-01-08T16:10:26Z",
+            "version": "8.4.0",
+            "Rule 1": 424,
+            "Rule 2": 551,
+            "Rule 3": 62,
+            "Rule 4": 461,
+            "Rule 5": 402
+        },
+        {
+            "created_at": "2025-01-08T07:49:48Z",
+            "version": "8.4.0",
+            "Rule 1": 930,
+            "Rule 2": 978,
+            "Rule 3": 35,
+            "Rule 4": 480,
+            "Rule 5": 877
+        },
+        {
+            "created_at": "2025-01-08T08:11:29Z",
+            "version": "8.4.0",
+            "Rule 1": 822,
+            "Rule 2": 284,
+            "Rule 3": 70,
+            "Rule 4": 337,
+            "Rule 5": 667
+        },
+        {
+            "created_at": "2025-01-08T18:20:37Z",
+            "version": "8.4.0",
+            "Rule 1": 576,
+            "Rule 2": 128,
+            "Rule 3": 217,
+            "Rule 4": 66,
+            "Rule 5": 714
+        },
+        {
+            "created_at": "2025-01-08T16:32:27Z",
+            "version": "8.4.0",
+            "Rule 1": 553,
+            "Rule 2": 99,
+            "Rule 3": 393,
+            "Rule 4": 710,
+            "Rule 5": 121
+        },
+        {
+            "created_at": "2025-01-08T01:53:49Z",
+            "version": "8.4.0",
+            "Rule 1": 409,
+            "Rule 2": 209,
+            "Rule 3": 894,
+            "Rule 4": 830,
+            "Rule 5": 450
+        },
+        {
+            "created_at": "2025-01-08T17:53:01Z",
+            "version": "8.4.0",
+            "Rule 1": 390,
+            "Rule 2": 505,
+            "Rule 3": 44,
+            "Rule 4": 543,
+            "Rule 5": 313
+        },
+        {
+            "created_at": "2025-01-08T14:14:39Z",
+            "version": "8.4.0",
+            "Rule 1": 792,
+            "Rule 2": 634,
+            "Rule 3": 874,
+            "Rule 4": 381,
+            "Rule 5": 211
+        },
+        {
+            "created_at": "2025-01-08T17:05:10Z",
+            "version": "8.4.0",
+            "Rule 1": 430,
+            "Rule 2": 522,
+            "Rule 3": 6,
+            "Rule 4": 774,
+            "Rule 5": 223
+        },
+        {
+            "created_at": "2025-01-08T00:14:45Z",
+            "version": "8.4.0",
+            "Rule 1": 345,
+            "Rule 2": 837,
+            "Rule 3": 670,
+            "Rule 4": 347,
+            "Rule 5": 614
+        },
+        {
+            "created_at": "2025-01-08T22:14:32Z",
+            "version": "8.4.0",
+            "Rule 1": 117,
+            "Rule 2": 952,
+            "Rule 3": 493,
+            "Rule 4": 17,
+            "Rule 5": 309
+        },
+        {
+            "created_at": "2025-01-08T14:56:05Z",
+            "version": "8.4.0",
+            "Rule 1": 108,
+            "Rule 2": 853,
+            "Rule 3": 767,
+            "Rule 4": 301,
+            "Rule 5": 937
+        },
+        {
+            "created_at": "2025-01-08T19:33:55Z",
+            "version": "8.4.0",
+            "Rule 1": 312,
+            "Rule 2": 608,
+            "Rule 3": 860,
+            "Rule 4": 770,
+            "Rule 5": 867
+        },
+        {
+            "created_at": "2025-01-08T07:34:46Z",
+            "version": "8.4.0",
+            "Rule 1": 196,
+            "Rule 2": 166,
+            "Rule 3": 641,
+            "Rule 4": 200,
+            "Rule 5": 637
+        },
+        {
+            "created_at": "2025-01-08T03:04:16Z",
+            "version": "8.4.0",
+            "Rule 1": 312,
+            "Rule 2": 106,
+            "Rule 3": 570,
+            "Rule 4": 801,
+            "Rule 5": 265
+        },
+        {
+            "created_at": "2025-01-08T23:18:48Z",
+            "version": "8.4.0",
+            "Rule 1": 330,
+            "Rule 2": 804,
+            "Rule 3": 126,
+            "Rule 4": 876,
+            "Rule 5": 151
+        },
+        {
+            "created_at": "2025-01-08T10:07:25Z",
+            "version": "8.4.0",
+            "Rule 1": 786,
+            "Rule 2": 464,
+            "Rule 3": 223,
+            "Rule 4": 892,
+            "Rule 5": 450
+        },
+        {
+            "created_at": "2025-01-08T09:30:41Z",
+            "version": "8.4.0",
+            "Rule 1": 261,
+            "Rule 2": 643,
+            "Rule 3": 146,
+            "Rule 4": 485,
+            "Rule 5": 405
+        },
+        {
+            "created_at": "2025-01-08T15:11:42Z",
+            "version": "8.4.0",
+            "Rule 1": 9,
+            "Rule 2": 782,
+            "Rule 3": 901,
+            "Rule 4": 359,
+            "Rule 5": 961
+        },
+        {
+            "created_at": "2025-01-08T05:48:57Z",
+            "version": "8.4.0",
+            "Rule 1": 458,
+            "Rule 2": 45,
+            "Rule 3": 206,
+            "Rule 4": 662,
+            "Rule 5": 258
+        },
+        {
+            "created_at": "2025-01-08T12:10:52Z",
+            "version": "8.4.0",
+            "Rule 1": 50,
+            "Rule 2": 263,
+            "Rule 3": 766,
+            "Rule 4": 188,
+            "Rule 5": 627
+        },
+        {
+            "created_at": "2025-01-08T14:31:37Z",
+            "version": "8.4.0",
+            "Rule 1": 444,
+            "Rule 2": 599,
+            "Rule 3": 909,
+            "Rule 4": 520,
+            "Rule 5": 71
+        },
+        {
+            "created_at": "2025-01-08T11:08:47Z",
+            "version": "8.4.0",
+            "Rule 1": 977,
+            "Rule 2": 129,
+            "Rule 3": 237,
+            "Rule 4": 992,
+            "Rule 5": 782
+        },
+        {
+            "created_at": "2025-01-08T01:26:02Z",
+            "version": "8.4.0",
+            "Rule 1": 238,
+            "Rule 2": 56,
+            "Rule 3": 609,
+            "Rule 4": 93,
+            "Rule 5": 909
+        },
+        {
+            "created_at": "2025-01-08T23:36:40Z",
+            "version": "8.4.0",
+            "Rule 1": 392,
+            "Rule 2": 394,
+            "Rule 3": 393,
+            "Rule 4": 106,
+            "Rule 5": 284
+        },
+        {
+            "created_at": "2025-01-08T15:20:15Z",
+            "version": "8.4.0",
+            "Rule 1": 841,
+            "Rule 2": 438,
+            "Rule 3": 536,
+            "Rule 4": 366,
+            "Rule 5": 902
+        },
+        {
+            "created_at": "2025-01-08T14:34:27Z",
+            "version": "8.4.0",
+            "Rule 1": 571,
+            "Rule 2": 463,
+            "Rule 3": 659,
+            "Rule 4": 307,
+            "Rule 5": 701
+        },
+        {
+            "created_at": "2025-01-08T16:59:08Z",
+            "version": "8.4.0",
+            "Rule 1": 520,
+            "Rule 2": 75,
+            "Rule 3": 368,
+            "Rule 4": 857,
+            "Rule 5": 258
+        },
+        {
+            "created_at": "2025-01-08T17:58:59Z",
+            "version": "8.4.0",
+            "Rule 1": 285,
+            "Rule 2": 778,
+            "Rule 3": 871,
+            "Rule 4": 988,
+            "Rule 5": 150
+        },
+        {
+            "created_at": "2025-01-08T08:02:56Z",
+            "version": "8.4.0",
+            "Rule 1": 589,
+            "Rule 2": 264,
+            "Rule 3": 314,
+            "Rule 4": 700,
+            "Rule 5": 891
+        },
+        {
+            "created_at": "2025-01-08T07:44:57Z",
+            "version": "8.4.0",
+            "Rule 1": 390,
+            "Rule 2": 215,
+            "Rule 3": 928,
+            "Rule 4": 995,
+            "Rule 5": 596
+        },
+        {
+            "created_at": "2025-01-08T04:21:09Z",
+            "version": "8.4.0",
+            "Rule 1": 516,
+            "Rule 2": 130,
+            "Rule 3": 485,
+            "Rule 4": 567,
+            "Rule 5": 664
+        },
+        {
+            "created_at": "2025-01-08T17:13:19Z",
+            "version": "8.4.0",
+            "Rule 1": 825,
+            "Rule 2": 232,
+            "Rule 3": 899,
+            "Rule 4": 553,
+            "Rule 5": 631
+        },
+        {
+            "created_at": "2025-01-08T21:39:11Z",
+            "version": "8.4.0",
+            "Rule 1": 885,
+            "Rule 2": 873,
+            "Rule 3": 454,
+            "Rule 4": 894,
+            "Rule 5": 631
+        },
+        {
+            "created_at": "2025-01-08T04:54:26Z",
+            "version": "8.4.0",
+            "Rule 1": 157,
+            "Rule 2": 1,
+            "Rule 3": 922,
+            "Rule 4": 825,
+            "Rule 5": 556
+        },
+        {
+            "created_at": "2025-01-08T00:44:44Z",
+            "version": "8.4.0",
+            "Rule 1": 801,
+            "Rule 2": 170,
+            "Rule 3": 869,
+            "Rule 4": 22,
+            "Rule 5": 939
+        },
+        {
+            "created_at": "2025-01-08T10:08:13Z",
+            "version": "8.4.0",
+            "Rule 1": 12,
+            "Rule 2": 521,
+            "Rule 3": 795,
+            "Rule 4": 614,
+            "Rule 5": 708
+        },
+        {
+            "created_at": "2025-01-08T07:17:41Z",
+            "version": "8.4.0",
+            "Rule 1": 78,
+            "Rule 2": 717,
+            "Rule 3": 313,
+            "Rule 4": 818,
+            "Rule 5": 797
+        },
+        {
+            "created_at": "2025-01-08T12:20:32Z",
+            "version": "8.4.0",
+            "Rule 1": 619,
+            "Rule 2": 953,
+            "Rule 3": 568,
+            "Rule 4": 927,
+            "Rule 5": 841
+        },
+        {
+            "created_at": "2025-01-08T08:06:24Z",
+            "version": "8.4.0",
+            "Rule 1": 294,
+            "Rule 2": 976,
+            "Rule 3": 22,
+            "Rule 4": 211,
+            "Rule 5": 404
+        },
+        {
+            "created_at": "2025-01-08T00:37:34Z",
+            "version": "8.4.0",
+            "Rule 1": 521,
+            "Rule 2": 4,
+            "Rule 3": 764,
+            "Rule 4": 150,
+            "Rule 5": 733
+        },
+        {
+            "created_at": "2025-01-08T07:05:01Z",
+            "version": "8.4.0",
+            "Rule 1": 801,
+            "Rule 2": 731,
+            "Rule 3": 690,
+            "Rule 4": 87,
+            "Rule 5": 221
         }
     ]
 }
