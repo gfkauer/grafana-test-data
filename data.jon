@@ -1,14 +1,9 @@
 [
-    {
-        "version": "7.8.0.0",
-        "rule": "dt_component",
-        "execution_time": 10,
-        "timestamp": "2025-01-01T15:30:00Z"
-    },
-    {
-        "version": "7.8.0.0",
-        "rule": "dt_component",
-        "execution_time": 12,
-        "timestamp": "2025-01-02T15:30:00Z"
-    }
+  {
+    "target": "dt_component",
+    "datapoints": [
+      [10, 1704113400000],
+      [12, 1704199800000]
+    ]
+  }
 ]
